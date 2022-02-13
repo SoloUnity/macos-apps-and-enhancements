@@ -26,6 +26,8 @@ List of apps that improve on the default macOS experience while generally retain
 ## Want To Contribute?
 Submit a pull request please!
 
+## The Stuff
+
 ### Audio Utilities
 - [🟢 Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [🟢 BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) | Individual app volume control
