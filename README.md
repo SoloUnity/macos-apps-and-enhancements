@@ -10,7 +10,7 @@ List of apps that improve on the default MacOS experience while retaining the ma
 | I use this          | ⭐️            | It works well enough for me to use|
 
 ### Contents
-[Windows Management](#Windows Management)
+[Windows Management](#Windows-Management)
 
 ### Windows Management
 -[Tiles]()
