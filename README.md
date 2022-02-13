@@ -23,7 +23,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [Gaming](#Gaming)
 - [Alfred Powerpack](#Alfred-Powerpack)
 
-## Want To Contribute?
+## Contributing
 Submit a pull request please!
 
 ## The Stuff
