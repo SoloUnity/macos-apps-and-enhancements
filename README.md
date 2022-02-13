@@ -51,6 +51,7 @@ List of apps that improve on the default macOS experience while generally retain
 
 ### Productivity Apps
 - [🟢 Alfred ⭐️](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
+- [🟢 Amphetamine ⭐️](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [🟢 Maccy ⭐️](https://maccy.app) | Clipboard manager
 - [🟢 OwlOCR ⭐️](https://apps.apple.com/ca/app/owlocr-screenshot-to-text/id1499181666?mt=12) | OCR (Screenshot to output) for text, can convert unsearchable pdfs to searchable
 - [🟢 Flow ⭐️](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
@@ -67,7 +68,7 @@ List of apps that improve on the default macOS experience while generally retain
 ### Text Editors
 - [🟢 CotEditor](https://coteditor.com) |  Lightweight plain-text editor for macOS
 - [🟢 Textmate](https://macromates.com) |  Editor that brings Apple's approach to operating systems into the world of text editors
-- [🟢💰 Sublime Text](http://www.sublimetext.com) |   Sophisticated text editor for code, markup and prose
+- [🟢💰 Sublime Text](http://www.sublimetext.com) |  Sophisticated text editor for code, markup and prose
 
 ### Touch Bar Apps
 - [🟢 Muse Bar ⭐️](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
