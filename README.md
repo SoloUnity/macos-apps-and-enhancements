@@ -37,7 +37,7 @@ Submit a pull request please!
 - [🟢 BlackHole](https://existential.audio/blackhole/) | Very simple audio driver for routing audio between apps
 - [🟢 Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [🟢 Oceanaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
-- [🟢 PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of Spotify and AppleMusic/iTunes music playback from the menu bar
+- [🟢 PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of music playback from the menu bar
 - [🟢💰 AirBuddy ⭐️](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [🟡💰 AudioHijack](https://rogueamoeba.com/audiohijack/) | Highly configurable audio recording from apps
 - [🟢💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
