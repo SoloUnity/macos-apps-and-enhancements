@@ -27,11 +27,20 @@ List of apps that improve on the default macOS experience while generally retain
 - [Gaming](#Gaming)
 - [Alfred Powerpack](#Alfred-Powerpack)
 
+## Contributing
+Submit a pull request please!
+
+## The Stuff
+
 ### Audio Utilities
 - [🟢 Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [🟢 BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) | Individual app volume control
 - [🟢 Oceanaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
 - [🟢 PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of Spotify and AppleMusic/iTunes music playback from the menu bar
+- [🟢 BlackHole](https://existential.audio/blackhole/) | Very simple audio driver for routing audio between apps
+- [🟢💰Piezo](https://rogueamoeba.com/piezo/) | Super simple way to record audio from apps
+- [🟡💰Loopback](https://rogueamoeba.com/loopback/) | Audio driver and user interface for highly flexible audio routing
+- [🟡💰Audio Hijack](https://rogueamoeba.com/audiohijack/) | Highly configurable audio recording from apps
 - [🟢💰 AirBuddy ⭐️](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [🟢💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
 - [🟢💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
@@ -66,7 +75,9 @@ List of apps that improve on the default macOS experience while generally retain
 
 ### Productivity Apps
 - [🟢 Alfred ⭐️](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
-- [🟢 DeepL](https://www.deepl.com) | Translator
+- [🟢 DeepL](https://www.deepl.com/en/app/) | Translator
+- [🟢 Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
+- [🟢 Amphetamine ⭐️](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [🟢 Maccy ⭐️](https://maccy.app) | Clipboard manager
 - [🟢 OwlOCR ⭐️](https://apps.apple.com/ca/app/owlocr-screenshot-to-text/id1499181666?mt=12) | OCR (Screenshot to output) for text, can convert unsearchable pdfs to searchable
 - [🟢 Flow ⭐️](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
@@ -83,7 +94,7 @@ List of apps that improve on the default macOS experience while generally retain
 ### Text Editors
 - [🟢 CotEditor](https://coteditor.com) |  Lightweight plain-text editor for macOS
 - [🟢 Textmate](https://macromates.com) |  Editor that brings Apple's approach to operating systems into the world of text editors
-- [🟢💰 Sublime Text](http://www.sublimetext.com) |   Sophisticated text editor for code, markup and prose
+- [🟢💰 Sublime Text](http://www.sublimetext.com) |  Sophisticated text editor for code, markup and prose
 
 ### Touch Bar Apps
 - [🟢 Muse Bar ⭐️](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
@@ -113,6 +124,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢💰 Wipr ⭐️](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period
 > Run in terminal if safari extensions bug out: `/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f -R /Applications/Safari.app`
 
+## Other Stuff
 ### Gaming
 - [🟢 Discord ⭐️](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) | Native discord on Apple Silicon is currently only in PTB and Canary builds
 - [🟢 Lunar Client ⭐️](https://www.lunarclient.com/download/) | Minecraft client that runs natively on apple silicon
