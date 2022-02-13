@@ -104,6 +104,7 @@ Submit a pull request please!
 - [🟢💰 Wipr ⭐️](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period
 > Run in terminal if safari extensions bug out: `/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f -R /Applications/Safari.app`
 
+## Other Stuff
 ### Gaming
 - [🟢 Discord ⭐️](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) | Native discord on Apple Silicon is currently only in PTB and Canary builds
 - [🟢 Lunar Client ⭐️](https://www.lunarclient.com/download/) | Minecraft client that runs natively on apple silicon
