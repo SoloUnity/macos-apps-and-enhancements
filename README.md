@@ -83,6 +83,7 @@ Submit a pull request please!
 - [🟢 Flow ⭐️](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
 - [🟢 Tinkertool ⭐️](https://www.bresink.com/osx/TinkerTool.html) | Terminal commands in a gui, advanced macOS settings
 - [🟢 Moxtrix ⭐️](https://motrix.app) | Download manager and speed booster
+- [🟢💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 
 ### System Enhancements
 - [🟢 Mos ⭐️](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
