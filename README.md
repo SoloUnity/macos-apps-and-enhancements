@@ -87,7 +87,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [🔴 PlayCover ⭐️](https://www.playcover.me) | Sideload and run iOS apps like genshin + Keyboard mapping
 
 ### Alfred Powerpack
-- [🟡💰 Alfred ⭐️](https://www.alfredapp.com/workflows/) | Its everything the free version does + third party extensions, scripts and more functions
+- [🟡💰 Alfred ⭐️](https://www.alfredapp.com/powerpack/) | Its everything the free version does + third party extensions, scripts and more functions
 - [🟢 Alfred Workflows Store](https://www.alfredworkflows.store) | A great place to get workflows
 - [🟡 Packal](http://www.packal.org) | The biggest alfred workflow site out there
 
