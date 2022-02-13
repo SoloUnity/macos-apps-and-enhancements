@@ -46,8 +46,8 @@ Submit a pull request please!
 - [🟢💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
 
 ### Design Tools
-- [🟢 Blender](https://www.blender.org) | Free and open source 3D creation software
-- [🟢 QCAD](https://qcad.org) | QCAD is a free, open source application for computer aided drafting (CAD) in two dimensions (2D)
+- [🟡 Blender](https://www.blender.org) | Free and open source 3D creation software
+- [🟡 QCAD](https://qcad.org) | QCAD is a free, open source application for computer aided drafting (CAD) in two dimensions (2D)
 - [🟢💰 Affinity Designer](https://affinity.serif.com/en-us/designer/) | Professional graphic design software for Mac
 - [🟢💰 Affinity Photo](https://affinity.serif.com/en-us/photo/) | Professional image editing software for Mac
 - [🟢💰 Affinity Publisher](https://affinity.serif.com/en-us/publisher/) | Professional desktop publishing software for Mac
