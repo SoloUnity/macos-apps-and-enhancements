@@ -1,1 +1,1 @@
-# macos-apps-and-enhancements
+# MacOS Apps // Safari Extensions // Alfred Workflows
