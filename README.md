@@ -13,11 +13,15 @@ List of apps that improve on the default macOS experience while generally retain
 - [Audio Utilities](#Audio-Utilities)
 - [Design Tools](#Design-Tools)
 - [Display Enhancements](#Display-Enhancements)
+- [Encryption](#Encryption)
+- [File Manager](#File-Manager)
 - [Menu Bar Manager](#Menu-Bar-Manager)
+- [Password Management](#Password-Management)
 - [Productivity Apps](#Productivity-Apps)
 - [System Enhancements](#System-Enhancements)
 - [Text Editors](#Text-Editors)
 - [Touch Bar Apps](#Touch-Bar-Apps)
+- [Video Utilities](#Video-Utilities)
 - [Windows Management](#Windows-Management)
 - [Safari Extensions](#Safari-Extensions)
 - [Gaming](#Gaming)
@@ -31,8 +35,8 @@ Submit a pull request please!
 ### Audio Utilities
 - [🟢 Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [🟢 BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) | Individual app volume control
-- [🟢 PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of Spotify and AppleMusic/iTunes music playback from the menu bar
 - [🟢 Oceanaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
+- [🟢 PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of Spotify and AppleMusic/iTunes music playback from the menu bar
 - [🟢 BlackHole](https://existential.audio/blackhole/) | Very simple audio driver for routing audio between apps
 - [🟢💰Piezo](https://rogueamoeba.com/piezo/) | Super simple way to record audio from apps
 - [🟡💰Loopback](https://rogueamoeba.com/loopback/) | Audio driver and user interface for highly flexible audio routing
@@ -43,8 +47,10 @@ Submit a pull request please!
 
 ### Design Tools
 - [🟢 Blender](https://www.blender.org) | Free and open source 3D creation software
+- [🟢 QCAD](https://qcad.org) | QCAD is a free, open source application for computer aided drafting (CAD) in two dimensions (2D)
 - [🟢💰 Affinity Designer](https://affinity.serif.com/en-us/designer/) | Professional graphic design software for Mac
-- [🟢💰 Affinity Photo](https://affinity.serif.com/en-us/Photo/) | Professional image editing software for Mac
+- [🟢💰 Affinity Photo](https://affinity.serif.com/en-us/photo/) | Professional image editing software for Mac
+- [🟢💰 Affinity Publisher](https://affinity.serif.com/en-us/publisher/) | Professional desktop publishing software for Mac
 - [🟢💰 Shapr3D](https://www.shapr3d.com) | A user-friendly, cross-platform CAD app
 
 ### Display Enhancements
@@ -53,13 +59,23 @@ Submit a pull request please!
 - [🟢💰 iWallpaper](https://apps.apple.com/ca/app/iwallpaper-live-wallpaper/id1552826194?mt=12) | Similar to Wallpaper Engine, dynamic wallpapers
 - [🟢💰 Live Wallpaper](https://apps.apple.com/ca/app/live-wallpaper-themes-4k/id1456235760?mt=12) | Similar to Wallpaper Engine, dynamic wallpapers
 
+### Encryption
+- [🟢 Cryptomator](https://cryptomator.org) | A client-side encryption app
+
+### File Manager
+- [🟢💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+
 ### Menu Bar Manager
 - [🟢 Hidden Bar](https://apps.apple.com/ca/app/hidden-bar/id1452453066?mt=12) | Basic click and hide menu bar icons
 - [🟢 Vanilla](https://matthewpalmer.net/vanilla/) | Basic click and hide menu bar icons
 - [🟢💰 Bartender 4](https://www.macbartender.com) | Autohides icons based on their changes and the system
 
+### Password Management
+- [🟢 Bitwarden](https://bitwarden.com) | Open source password management tool for Mac OS, iOS and browsers
+
 ### Productivity Apps
 - [🟢 Alfred ⭐️](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
+- [🟢 DeepL](https://www.deepl.com/en/app/) | Translator
 - [🟢 Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
 - [🟢 Amphetamine ⭐️](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [🟢 Maccy ⭐️](https://maccy.app) | Clipboard manager
@@ -85,6 +101,10 @@ Submit a pull request please!
 - [🟢 Haptic Key](https://github.com/niw/HapticKey) | Haptic physical feedback from the Touch Bar
 - [🟢 Pock](https://pock.app) | Dock and widgets inside of the Touch Bar
 - [🟡💰 BetterTouchTools](https://folivora.ai) | Advanced Touch Bar widgets, gesture, scripts and more
+
+### Video Utilities
+- [🟢 IINA+](https://github.com/iina-plus) | IINA media player with additional features and bug fixes
+- [🟢 VLC](https://videolan.org) | Free, open-source, cross-platform multimedia player
 
 ### Windows Management
 - [🟢 AltTab ⭐️](https://alt-tab-macos.netlify.app) | Windows 11 like CMD-Tab enhancement
