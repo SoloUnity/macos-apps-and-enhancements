@@ -85,13 +85,13 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢💰 Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
 
 ### Safari Extensions
-- [🟢 1Blocker](https://pock.app) | Best free Adblock I know of, built in YT adblock
+- [🟢 1Blocker](https://1blocker.com) | Best free Adblock I know of, built in YT adblock
 - [🟢 Scribens ⭐️](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
 - [🟡 SponsorBlock ⭐️](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, you have to build the extension yourself in xcode
 - [🟢💰 Dark Reader ⭐️](https://apps.apple.com/ca/app/dark-reader-for-safari/id1438243180?mt=12) | Automatically makes websites dark, purchase syncs across the Apple ecosystem
 - [🟢💰 SponsorBlock](https://apps.apple.com/ca/app/sponsorblock-for-youtube/id1573461917?mt=12) | Skips sponsor spots in YouTube, paid means the app is ready to run from the get go
 - [🟢💰 Wipr ⭐️](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period
-- Run in terminal if safari extensions bug out: /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f -R /Applications/Safari.app
+> Run in terminal if safari extensions bug out: `/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f -R /Applications/Safari.app`
 
 ### Gaming
 - [🟢 Discord ⭐️](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) | Native discord on Apple Silicon is currently only in PTB and Canary builds
