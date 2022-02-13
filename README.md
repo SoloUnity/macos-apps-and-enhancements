@@ -62,7 +62,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟡💰 BetterTouchTools](https://folivora.ai) | Advanced Touch Bar widgets, gesture, scripts and more
 
 ### Windows Management
-- [🟢 AltTab ⭐️](https://alt-tab-macos.netlify.app) | Windows like CMD-Tab enhancement
+- [🟢 AltTab ⭐️](https://alt-tab-macos.netlify.app) | Windows 11 like CMD-Tab enhancement
 - [🟢 Tiles](https://freemacsoft.net/tiles/) | Drag windows to the side or use commands to tile them 
 - [🟢 Rectangle ⭐️](https://rectangleapp.com) | Drag windows to the side or use commands to tile them, supports extensions
 - [🟡 Amethyst](https://ianyh.com/amethyst/) | Automatic tiling window manager for macOS à la xmonad
