@@ -11,10 +11,12 @@ List of apps that improve on the default macOS experience while generally retain
 
 ## Categories
 - [Audio Utilities](#Audio-Utilities)
+- [Design Tools](#Design-Tools)
 - [Display Enhancements](#Display-Enhancements)
 - [Menu Bar Manager](#Menu-Bar-Manager)
 - [Productivity Apps](#Productivity-Apps)
 - [System Enhancements](#System-Enhancements)
+- [Text Editors](#Text-Editors)
 - [Touch Bar Apps](#Touch-Bar-Apps)
 - [Windows Management](#Windows-Management)
 - [Safari Extensions](#Safari-Extensions)
@@ -29,6 +31,12 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢💰 AirBuddy ⭐️](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [🟢💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
 - [🟢💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
+
+### Design Tools
+- [🟢 Blender](https://www.blender.org) | Free and open source 3D creation software
+- [🟢💰 Affinity Designer](https://affinity.serif.com/en-us/designer/) | Professional graphic design software for Mac
+- [🟢💰 Affinity Photo](https://affinity.serif.com/en-us/Photo/) | Professional image editing software for Mac
+- [🟢💰 Shapr3D](https://www.shapr3d.com) | A user-friendly, cross-platform CAD app
 
 ### Display Enhancements
 - [🟢 MonitorControl](https://github.com/MonitorControl/MonitorControl#readme) | Control display's brightness & volume as if it was a native Apple Display
@@ -55,6 +63,11 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢 AppCleaner ⭐️](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app 
 - [🟢 The Unarchiver ⭐️](https://apps.apple.com/ca/app/the-unarchiver/id425424353?mt=12) | Unarchiver / uncompressor for compressed files of all types
 - [🟢💰 Ejectify](https://ejectify.app) | Automatically eject and mount drives on sleep and wake, useful for external drives
+
+### Text Editors
+- [🟢 CotEditor](https://coteditor.com) |  Lightweight plain-text editor for macOS
+- [🟢 Textmate](https://macromates.com) |  Editor that brings Apple's approach to operating systems into the world of text editors
+- [🟢💰 Sublime Text](http://www.sublimetext.com) |   Sophisticated text editor for code, markup and prose
 
 ### Touch Bar Apps
 - [🟢 Muse Bar ⭐️](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
