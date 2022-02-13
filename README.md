@@ -66,7 +66,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢 Tiles](https://freemacsoft.net/tiles/) | Drag windows to the side or use commands to tile them 
 - [🟢 Rectangle ⭐️](https://rectangleapp.com) | Drag windows to the side or use commands to tile them, supports extensions
 - [🟡 Amethyst](https://ianyh.com/amethyst/) | Automatic tiling window manager for macOS à la xmonad
-- [🔴 Yabai](https://github.com/koekeishiya/yabai) | Different windows resize automatically based on commands, or drag to resize
+- [🔴 Yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning
 - [🟢💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
 - [🟢💰 Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
 
