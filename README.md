@@ -79,7 +79,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢💰 Wipr ⭐️](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period. 
 
 ### Gaming
-- [🟢 Discord ⭐️] (https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) | Native discord on Apple Silicon is currently only in PTB and Canary builds
+- [🟢 Discord ⭐️](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) | Native discord on Apple Silicon is currently only in PTB and Canary builds
 - [🟢 Lunar Client ⭐️](https://www.lunarclient.com/download/) | Minecraft client that runs natively on apple silicon
 - [🟢 ManyMC ⭐️](https://github.com/MinecraftMachina/ManyMC) | Minecraft launcher that I use for modded minecraft that runs natively on apple silicon
 - [🟡 Dolphin Emulator ⭐️](https://dolphin-emu.org) | Wii and gamecube emulator
