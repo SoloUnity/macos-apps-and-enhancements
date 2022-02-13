@@ -84,7 +84,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢 ManyMC ⭐️](https://github.com/MinecraftMachina/ManyMC) | Minecraft launcher that I use for modded minecraft that runs natively on apple silicon
 - [🟡 Dolphin Emulator ⭐️](https://dolphin-emu.org) | Wii and gamecube emulator
 - [🟡 Dolphin Ctrl Server ⭐️](https://github.com/apexskier/dolphin-controller) | Server to use phone as controller in dolphin emulator
-- [🔴 PlayCover ⭐️](https://www.playcover.me) | Sideload and run iOS apps like genshin
+- [🔴 PlayCover ⭐️](https://www.playcover.me) | Sideload and run iOS apps like genshin + Keyboard mapping
 
 ### Alfred Powerpack
 - [🟡💰 Alfred ⭐️](https://www.alfredapp.com/workflows/) | Its everything the free version does + third party extensions, scripts and more functions
