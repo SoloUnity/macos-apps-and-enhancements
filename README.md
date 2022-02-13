@@ -10,25 +10,22 @@ List of apps that improve on the default macOS experience while generally retain
 | I use this          	| ⭐️            		| It works well enough for me to use               		|
 
 ## Categories
-[Audio Utilities](#Audio-Utilities)
-[Display Enhancements](#Display-Enhancements)
-[Menu Bar Manager](#Menu-Bar-Manager)
-[Productivity Apps](#Productivity-Apps)
-[System Enhancements](#System-Enhancements)
-[Touch Bar Apps](#Touch-Bar-Apps)
-[Windows Management](#Windows-Management)
-
-[Safari Extensions](#Safari-Extensions)
-
-[Gaming](#Gaming)
-
-[Alfred Powerpack](#Alfred-Powerpack)
+- [Audio Utilities](#Audio-Utilities)
+- [Display Enhancements](#Display-Enhancements)
+- [Menu Bar Manager](#Menu-Bar-Manager)
+- [Productivity Apps](#Productivity-Apps)
+- [System Enhancements](#System-Enhancements)
+- [Touch Bar Apps](#Touch-Bar-Apps)
+- [Windows Management](#Windows-Management)
+- [Safari Extensions](#Safari-Extensions)
+- [Gaming](#Gaming)
+- [Alfred Powerpack](#Alfred-Powerpack)
 
 ### Audio Utilities
 - [🟢 Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [🟢 BackgroundMusic]() | Individual app volume control
 - [🟢 PlayStatus](https://github.com/nbolar/PlayStatus) | Shortcuts to control music volume and skipping, pop up mini-player with album art and music controls
-- [🟢💰 AirBuddy ⭐️](https://v2.airbuddy.app/?ref=bradleychambers2) | Native iOS-like airpods or bluetooth device connection animation, command based connection 
+- [🟢💰 AirBuddy ⭐️](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [🟢💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
 - [🟢💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
 
@@ -67,7 +64,7 @@ List of apps that improve on the default macOS experience while generally retain
 ### Windows Management
 - [🟢 AltTab ⭐️](https://alt-tab-macos.netlify.app) | Windows like CMD-Tab enhancement
 - [🟢 Tiles](https://freemacsoft.net/tiles/) | Drag windows to the side or use commands to tile them 
-- [🟢 Rectangle ⭐️](https://rectangleapp.com) | Drag windows to the side or use commands to tile them. Support for extensions (trackpad swipe tiling, etc…)
+- [🟢 Rectangle ⭐️](https://rectangleapp.com) | Drag windows to the side or use commands to tile them, supports extensions
 - [🟡 Amethyst](https://ianyh.com/amethyst/) | Automatic tiling window manager for macOS à la xmonad
 - [🔴 Yabai](https://github.com/koekeishiya/yabai) | Different windows resize automatically based on commands, or drag to resize
 - [🟢💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
@@ -76,7 +73,7 @@ List of apps that improve on the default macOS experience while generally retain
 ### Safari Extensions
 - [🟢 1Blocker](https://pock.app) | Best free Adblock I know of, built in YT adblock
 - [🟢 Scribens ⭐️](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
-- [🟡 SponsorBlock ⭐️](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, free requires you to build the extension yourself in xcode
+- [🟡 SponsorBlock ⭐️](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, you have to build the extension yourself in xcode
 - [🟢💰 Dark Reader ⭐️](https://apps.apple.com/ca/app/dark-reader-for-safari/id1438243180?mt=12) | Automatically makes websites dark, purchase syncs across the Apple ecosystem
 - [🟢💰 SponsorBlock](https://apps.apple.com/ca/app/sponsorblock-for-youtube/id1573461917?mt=12) | Skips sponsor spots in YouTube, paid means the app is ready to run from the get go
 - [🟢💰 Wipr ⭐️](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period. 
@@ -90,7 +87,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [🔴 PlayCover ⭐️](https://www.playcover.me) | Sideload and run iOS apps like genshin
 
 ### Alfred Powerpack
-[🟡💰 Alfred ⭐️](https://www.alfredapp.com/workflows/) | Its everything the free version does + third party extensions, scripts and more functions
-[🟢 Alfred Workflows Store](https://www.alfredworkflows.store) | A great place to get workflows
-[🟡 Packal](http://www.packal.org) | The biggest alfred workflow site out there
+- [🟡💰 Alfred ⭐️](https://www.alfredapp.com/workflows/) | Its everything the free version does + third party extensions, scripts and more functions
+- [🟢 Alfred Workflows Store](https://www.alfredworkflows.store) | A great place to get workflows
+- [🟡 Packal](http://www.packal.org) | The biggest alfred workflow site out there
 
