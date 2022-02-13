@@ -1,5 +1,5 @@
 # macOS Apps and Enhancements
-List of apps that improve on the default macOS experience while generally retaining the macOS aesthetic. All apps are Apple Silicon native. 
+List of apps that improve on the default macOS experience while generally retaining the macOS aesthetic. All apps are Apple Silicon / m1 native. 
 
 | Legend              	| Icon          		| Description                                       	|
 | -------------       	| ------------- 	  | -------------                                     	|
