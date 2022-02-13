@@ -16,6 +16,6 @@ List of apps that improve on the default MacOS experience while retaining the ma
 - [🟢 Tiles](https://freemacsoft.net/tiles/) 
 - [🟢 Rectangle](https://rectangleapp.com) 
 - [🟡 Amethyst](https://ianyh.com/amethyst/) 
-- [🔴Yabai](https://github.com/koekeishiya/yabai) 
+- [🔴 Yabai](https://github.com/koekeishiya/yabai) 
 - [🟢💰 Swish](https://highlyopinionated.co/swish/) 
 - [🟢💰 Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) 
