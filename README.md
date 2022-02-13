@@ -5,7 +5,7 @@ List of apps that improve on the default MacOS experience while retaining the ma
 | -------------       | ------------- | -------------                     |
 | Beginner            | 🟢            | Easy to setup, easy to use        |
 | Intermediate        | 🟡            | A little more setup, easy to use  |
-| Expert              | 🟠            | Harder to setup, harder to use    |
+| Expert              | 🔴            | Harder to setup, harder to use    |
 | Paid                | 💰            | App is paid                       |
 | I use this          | ⭐️            | It works well enough for me to use|
 
