@@ -16,7 +16,7 @@ List of apps that improve on the default MacOS experience while retaining the ma
 ### Windows Management
 - [🟢 AltTab](https://alt-tab-macos.netlify.app) | Windows like CMD-Tab enhancement
 - [🟢 Tiles](https://freemacsoft.net/tiles/) | Drag windows to the side or use commands to tile them 
-- [🟢 Rectangle](https://rectangleapp.com) | Drag windows to the side or use commands to tile them. Support for extensions (trackpad swipe tiling, etc…)
+- [🟢 Rectangle](https://rectangleapp.com) | Drag windows to the side or use commands to tile them, support for extensions like trackpad
 - [🟡 Amethyst](https://ianyh.com/amethyst/) | Automatic tiling window manager for macOS à la xmonad
 - [🔴 Yabai](https://github.com/koekeishiya/yabai) | Different windows resize automatically based on commands, or drag to resize
 - [🟢💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
