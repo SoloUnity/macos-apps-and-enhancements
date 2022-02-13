@@ -36,7 +36,7 @@ Submit a pull request please!
 - [🟢 BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) | Individual app volume control
 - [🟢 BlackHole](https://existential.audio/blackhole/) | Very simple audio driver for routing audio between apps
 - [🟢 Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
-- [🟢 Oceanaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
+- [🟢 Ocenaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
 - [🟢 PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of music playback from the menu bar
 - [🟢💰 AirBuddy ⭐️](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [🟡💰 AudioHijack](https://rogueamoeba.com/audiohijack/) | Highly configurable audio recording from apps
