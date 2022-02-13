@@ -104,7 +104,7 @@ Submit a pull request please!
 - [🟡💰 BetterTouchTools](https://folivora.ai) | Advanced Touch Bar widgets, gesture, scripts and more
 
 ### Video Utilities
-- [🟢 IINA+](https://github.com/iina-plus) | IINA media player with additional features and bug fixes
+- [🟢 IINA+ ⭐️](https://github.com/iina-plus) | IINA media player with additional features and bug fixes
 - [🟢 VLC](https://videolan.org) | Free, open-source, cross-platform multimedia player
 
 ### Windows Management
