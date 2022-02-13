@@ -11,10 +11,12 @@ List of apps that improve on the default macOS experience while generally retain
 
 ## Categories
 - [Audio Utilities](#Audio-Utilities)
+- [Design Tools](#Design-Tools)
 - [Display Enhancements](#Display-Enhancements)
 - [Menu Bar Manager](#Menu-Bar-Manager)
 - [Productivity Apps](#Productivity-Apps)
 - [System Enhancements](#System-Enhancements)
+- [Text Editors](#Text-Editors)
 - [Touch Bar Apps](#Touch-Bar-Apps)
 - [Windows Management](#Windows-Management)
 - [Safari Extensions](#Safari-Extensions)
@@ -29,6 +31,12 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢💰 AirBuddy ⭐️](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [🟢💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
 - [🟢💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
+
+### Design Tools
+- [🟢 Blender](https://www.blender.org) | Free and open source 3D creation software
+- [🟢💰 Affinity Designer](https://affinity.serif.com/en-us/designer/) | Professional graphic design software for Mac
+- [🟢💰 Affinity Photo](https://affinity.serif.com/en-us/Photo/) | Professional image editing software for Mac
+- [🟢💰 Shapr3D](https://www.shapr3d.com) | A user-friendly, cross-platform CAD app
 
 ### Display Enhancements
 - [🟢 MonitorControl](https://github.com/MonitorControl/MonitorControl#readme) | Control display's brightness & volume as if it was a native Apple Display
@@ -56,6 +64,11 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢 The Unarchiver ⭐️](https://apps.apple.com/ca/app/the-unarchiver/id425424353?mt=12) | Unarchiver / uncompressor for compressed files of all types
 - [🟢💰 Ejectify](https://ejectify.app) | Automatically eject and mount drives on sleep and wake, useful for external drives
 
+### Text Editors
+- [🟢 CotEditor](https://coteditor.com) |  Lightweight plain-text editor for macOS
+- [🟢 Textmate](https://macromates.com) |  Editor that brings Apple's approach to operating systems into the world of text editors
+- [🟢💰 Sublime Text](http://www.sublimetext.com) |   Sophisticated text editor for code, markup and prose
+
 ### Touch Bar Apps
 - [🟢 Muse Bar ⭐️](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
 - [🟢 Haptic Key](https://github.com/niw/HapticKey) | Haptic physical feedback from the Touch Bar
@@ -72,13 +85,13 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢💰 Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
 
 ### Safari Extensions
-- [🟢 1Blocker](https://pock.app) | Best free Adblock I know of, built in YT adblock
+- [🟢 1Blocker](https://1blocker.com) | Best free Adblock I know of, built in YT adblock
 - [🟢 Scribens ⭐️](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
 - [🟡 SponsorBlock ⭐️](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, you have to build the extension yourself in xcode
 - [🟢💰 Dark Reader ⭐️](https://apps.apple.com/ca/app/dark-reader-for-safari/id1438243180?mt=12) | Automatically makes websites dark, purchase syncs across the Apple ecosystem
 - [🟢💰 SponsorBlock](https://apps.apple.com/ca/app/sponsorblock-for-youtube/id1573461917?mt=12) | Skips sponsor spots in YouTube, paid means the app is ready to run from the get go
 - [🟢💰 Wipr ⭐️](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period
-- Run in terminal if safari extensions bug out: /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f -R /Applications/Safari.app
+> Run in terminal if safari extensions bug out: `/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f -R /Applications/Safari.app`
 
 ### Gaming
 - [🟢 Discord ⭐️](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) | Native discord on Apple Silicon is currently only in PTB and Canary builds
