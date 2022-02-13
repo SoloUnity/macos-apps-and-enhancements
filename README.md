@@ -25,6 +25,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [🟢 Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [🟢 BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) | Individual app volume control
 - [🟢 PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of Spotify and AppleMusic/iTunes music playback from the menu bar
+- [🟢 Oceanaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
 - [🟢💰 AirBuddy ⭐️](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [🟢💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
 - [🟢💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
