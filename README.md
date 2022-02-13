@@ -42,7 +42,6 @@ List of apps that improve on the default macOS experience while generally retain
 
 ### Productivity Apps
 - [🟢 Alfred ⭐️](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
-- [🟢 Raycast](https://www.raycast.com) | Replaces spotlight, instant app/files/folder/web search + extensions
 - [🟢 Maccy ⭐️](https://maccy.app) | Clipboard manager
 - [🟢 OwlOCR ⭐️](https://apps.apple.com/ca/app/owlocr-screenshot-to-text/id1499181666?mt=12) | OCR (Screenshot to output) for text, can convert unsearchable pdfs to searchable
 - [🟢 Flow ⭐️](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
