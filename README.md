@@ -15,7 +15,6 @@ List of apps that improve on the default macOS experience while generally retain
 - [Display Enhancements](#Display-Enhancements)
 - [File Manager](#File-Manager)
 - [Menu Bar Manager](#Menu-Bar-Manager)
-- [Password Management](#Password-Management)
 - [Productivity Apps](#Productivity-Apps)
 - [Security Tools](#Security-Tools)
 - [System Tools](#System-Tools)
@@ -70,9 +69,6 @@ Submit a pull request please!
 - [🟢 Vanilla](https://matthewpalmer.net/vanilla/) | Basic click and hide menu bar icons
 - [🟢💰 Bartender 4](https://www.macbartender.com) | Autohides icons based on their changes and the system
 
-### Password Management
-- [🟢 Bitwarden](https://bitwarden.com) | Open source password management tool for Mac OS, iOS and browsers
-
 ### Productivity Apps
 - [🟢 Alfred ⭐️](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
 - [🟢 DeepL](https://www.deepl.com/en/app/) | Translator
@@ -86,6 +82,7 @@ Submit a pull request please!
 - [🟢💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 
 ### Security Tools
+- [🟢 Bitwarden](https://bitwarden.com) | Open source password management tool for Mac OS, iOS and browsers
 - [🟢 Cryptomator](https://cryptomator.org) | A client-side encryption app
 - [🟢 KnockKnock](https://objective-see.com/products/knockknock.html) | Find persistently installed programs and malware on your computer
 - [🟢 Lulu](https://objective-see.com/products/lulu.html) | Open source firewall to block incoming and outgoing connections
