@@ -34,6 +34,7 @@ Submit a pull request please!
 
 ### Audio Utilities
 - [🟢 BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) | Individual app volume control
+- [🟢 Beardie](https://github.com/Stillness-2/beardie) | Intelligently reroute your macs pause key to a music player + media control commands
 - [🟢 BlackHole](https://existential.audio/blackhole/) | Very simple audio driver for routing audio between apps
 - [🟢 Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [🟢 Ocenaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
