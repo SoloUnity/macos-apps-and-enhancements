@@ -5,7 +5,7 @@ List of apps that improve on the default macOS experience while generally retain
 | -------------       	| ------------- 	  | -------------                                     	|
 | Beginner            	| 🟢            		| Simple, easy to setup, easy to use                	|
 | Intermediate          | 🟡            		| Extra features, a little more setup, easy to use  	|
-| Expert              	| 🔴            		| More features, harder to setup, harder to use     	|
+| Expert              	| 🔴            		| Powerful, harder to setup, harder to use     	      |
 | Paid                	| 💰           		  | App is paid, or requires in app purchase to be useful|
 | I use this          	| ⭐️            		| It works well enough for me to use               		|
 
@@ -98,9 +98,10 @@ Submit a pull request please!
 
 ### Text Editors
 - [🟢 CotEditor](https://coteditor.com) |  Lightweight plain-text editor for macOS
+- [🟢 bbedit](https://www.barebones.com/products/bbedit/) |  OG text editor
 - [🟢 Textmate](https://macromates.com) |  Editor that brings Apple's approach to operating systems into the world of text editors
 - [🟢💰 SublimeText](http://www.sublimetext.com) |  Sophisticated text editor for code, markup and prose
-- [🟢 bbedit](https://www.barebones.com/products/bbedit/) |  OG text editor
+
 
 ### Touch Bar Apps
 - [🟢 HapticKey](https://github.com/niw/HapticKey) | Haptic physical feedback from the Touch Bar
