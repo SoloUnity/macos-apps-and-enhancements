@@ -66,6 +66,7 @@ Submit a pull request please!
 
 ### File Manager
 - [🟢💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [🟢💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 
 ### Menu Bar Manager
 - [🟢 Hidden Bar](https://apps.apple.com/ca/app/hidden-bar/id1452453066?mt=12) | Basic click and hide menu bar icons
@@ -99,6 +100,7 @@ Submit a pull request please!
 - [🟢 CotEditor](https://coteditor.com) |  Lightweight plain-text editor for macOS
 - [🟢 Textmate](https://macromates.com) |  Editor that brings Apple's approach to operating systems into the world of text editors
 - [🟢💰 SublimeText](http://www.sublimetext.com) |  Sophisticated text editor for code, markup and prose
+- [🟢 bbedit](https://www.barebones.com/products/bbedit/) |  OG text editor
 
 ### Touch Bar Apps
 - [🟢 HapticKey](https://github.com/niw/HapticKey) | Haptic physical feedback from the Touch Bar
@@ -108,6 +110,7 @@ Submit a pull request please!
 
 ### Video Utilities
 - [🟢 IINA+ ⭐️](https://github.com/iina-plus) | IINA media player with additional features and bug fixes
+- [🟢 Infuse ⭐️](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
 - [🟢 VLC](https://videolan.org) | Free, open-source, cross-platform multimedia player
 
 ### Windows Management
