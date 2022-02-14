@@ -13,11 +13,11 @@ List of apps that improve on the default macOS experience while generally retain
 - [Audio Utilities](#Audio-Utilities)
 - [Design Tools](#Design-Tools)
 - [Display Enhancements](#Display-Enhancements)
-- [Encryption](#Encryption)
 - [File Manager](#File-Manager)
 - [Menu Bar Manager](#Menu-Bar-Manager)
 - [Password Management](#Password-Management)
 - [Productivity Apps](#Productivity-Apps)
+- [Security Tools](#Security-Tools)
 - [System Tools](#System-Tools)
 - [Text Editors](#Text-Editors)
 - [Touch Bar Apps](#Touch-Bar-Apps)
@@ -61,9 +61,6 @@ Submit a pull request please!
 - [🟢💰 Live Wallpaper](https://apps.apple.com/ca/app/live-wallpaper-themes-4k/id1456235760?mt=12) | Similar to Wallpaper Engine, dynamic wallpapers
 - [🟢💰 Lunar ⭐️](https://lunar.fyi) | Intelligent adaptive brightness for your external monitors
 
-### Encryption
-- [🟢 Cryptomator](https://cryptomator.org) | A client-side encryption app
-
 ### File Manager
 - [🟢💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [🟢💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
@@ -87,6 +84,12 @@ Submit a pull request please!
 - [🟢 Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
 - [🟢 Tinkertool ⭐️](https://www.bresink.com/osx/TinkerTool.html) | Terminal commands in a gui, advanced macOS settings
 - [🟢💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
+
+### Security Tools
+- [🟢 Cryptomator](https://cryptomator.org) | A client-side encryption app
+- [🟢 KnockKnock](https://objective-see.com/products/knockknock.html) | Find persistently installed programs and malware on your computer
+- [🟢 Lulu](https://objective-see.com/products/lulu.html) | Open source firewall to block incoming and outgoing connections
+- [🟢 OverSight](https://objective-see.com/products/oversight.html) | OverSight monitors a mac's mic and webcam, alerting the user when the internal mic or camera is activated
 
 ### System Tools
 - [🟢 AppCleaner ⭐️](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app 
