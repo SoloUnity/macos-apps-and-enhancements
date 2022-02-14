@@ -69,7 +69,7 @@ Submit a pull request please!
 - [🟢💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 
 ### Menu Bar Manager
-- [🟢 Hidden Bar](https://apps.apple.com/ca/app/hidden-bar/id1452453066?mt=12) | Basic click and hide menu bar icons
+- [🟢 Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
 - [🟢 Vanilla](https://matthewpalmer.net/vanilla/) | Basic click and hide menu bar icons
 - [🟢💰 Bartender 4](https://www.macbartender.com) | Autohides icons based on their changes and the system
 
