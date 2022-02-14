@@ -111,7 +111,7 @@ Submit a pull request please!
 ### Video Utilities
 - [🟡 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
 - [🟢 IINA+ ⭐️](https://github.com/iina-plus) | IINA media player with additional features and bug fixes
-- [🟢 Infuse ⭐️](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
+- [🟢 Infuse](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
 - [🟢 VLC](https://videolan.org) | Free, open-source, cross-platform multimedia player
 
 ### Windows Management
