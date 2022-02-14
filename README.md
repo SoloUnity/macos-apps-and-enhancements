@@ -18,7 +18,7 @@ List of apps that improve on the default macOS experience while generally retain
 - [Menu Bar Manager](#Menu-Bar-Manager)
 - [Password Management](#Password-Management)
 - [Productivity Apps](#Productivity-Apps)
-- [System Enhancements](#System-Enhancements)
+- [System Tools](#System-Tools)
 - [Text Editors](#Text-Editors)
 - [Touch Bar Apps](#Touch-Bar-Apps)
 - [Video Utilities](#Video-Utilities)
@@ -86,10 +86,11 @@ Submit a pull request please!
 - [🟢 Tinkertool ⭐️](https://www.bresink.com/osx/TinkerTool.html) | Terminal commands in a gui, advanced macOS settings
 - [🟢💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 
-### System Enhancements
+### System Tools
 - [🟢 AppCleaner ⭐️](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app 
 - [🟢 Mos ⭐️](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
 - [🟢 NightOwl ⭐️](https://nightowl.kramser.xyz) | Sunrise and sunset based auto dark mode
+- [🟢 Silicon ⭐️](https://github.com/DigiDNA/Silicon) | Simple app to check if an app is native on Apple Silicon / m1
 - [🟢 The Unarchiver ⭐️](https://apps.apple.com/ca/app/the-unarchiver/id425424353?mt=12) | Unarchiver / uncompressor for compressed files of all types
 - [🟢💰 Ejectify](https://ejectify.app) | Automatically eject and mount drives on sleep and wake, useful for external drives
 
