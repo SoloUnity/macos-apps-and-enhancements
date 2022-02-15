@@ -87,6 +87,7 @@ Submit a pull request please!
 - [🟢 KnockKnock](https://objective-see.com/products/knockknock.html) | Find persistently installed programs and malware on your computer
 - [🟢 Lulu](https://objective-see.com/products/lulu.html) | Open source firewall to block incoming and outgoing connections
 - [🟢 OverSight](https://objective-see.com/products/oversight.html) | OverSight monitors a mac's mic and webcam, alerting the user when the internal mic or camera is activated
+- [🟡 Pareto Security](https://github.com/ParetoSecurity/pareto-mac) | Automatically audit your Mac for basic security hygiene
 
 ### System Tools
 - [🟢 AppCleaner ⭐️](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app 
