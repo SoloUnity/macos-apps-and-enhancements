@@ -53,6 +53,7 @@ Submit a pull request please!
 - [🟢💰 Affinity Publisher](https://affinity.serif.com/en-us/publisher/) | Professional desktop publishing software for Mac
 - [🟢💰 Pixelmator Pro](https://www.pixelmator.com/pro/) | Fast and easy to use image editing tool
 - [🟢💰 Shapr3D](https://www.shapr3d.com) | A user-friendly, cross-platform CAD app
+- [🟢💰 Sketch](https://www.sketch.com) | An all-in-one platform for digital design, with collaborative design tools, prototyping and developer handoff
 
 ### Display Enhancements
 - [🟢 MonitorControl](https://github.com/MonitorControl/MonitorControl#readme) | Control display's brightness & volume as if it was a native Apple Display
