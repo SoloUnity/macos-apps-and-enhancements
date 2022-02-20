@@ -130,7 +130,8 @@ Submit a pull request please!
 - [🟢💰 Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
 
 ## Other Stuff
-
+### Browsers
+- [🟢 Orion](https://browser.kagi.com) | Webkit based and safari inspired browser with chrome extensions, focuses on privacy
 ### Safari Extensions
 - [🟢 1Blocker](https://1blocker.com) | Best free Adblock I know of, built in YT adblock
 - [🟢 Scribens ⭐️](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
