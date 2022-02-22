@@ -72,6 +72,7 @@ Submit a pull request please!
 
 ### Productivity Apps
 - [🟢 Alfred ⭐️](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
+- [🟢 Biscuit ⭐️](https://eatbiscuit.com) | Work / school browser where websites are saved and treated as apps
 - [🟢 DeepL](https://www.deepl.com/en/app/) | Translator
 - [🟢 Amphetamine ⭐️](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [🟢 Flow ⭐️](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
