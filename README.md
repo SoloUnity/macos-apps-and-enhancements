@@ -14,13 +14,13 @@ List of apps that improve on the default macOS experience while generally retain
 - [Design Tools](#Design-Tools)
 - [Display Enhancements](#Display-Enhancements)
 - [File Manager](#File-Manager)
+- [Media Utilities](#Media-Utilities)
 - [Menu Bar Manager](#Menu-Bar-Manager)
 - [Productivity Apps](#Productivity-Apps)
 - [Security Tools](#Security-Tools)
 - [System Tools](#System-Tools)
 - [Text Editors](#Text-Editors)
 - [Touch Bar Apps](#Touch-Bar-Apps)
-- [Video Utilities](#Video-Utilities)
 - [Windows Management](#Windows-Management)
 - [Safari Extensions](#Safari-Extensions)
 - [Gaming](#Gaming)
@@ -64,6 +64,15 @@ Submit a pull request please!
 ### File Manager
 - [🟢💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [🟢💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+
+### Media Utilities
+- [🟢 CameraController](https://github.com/Itaybre/CameraController) | Control exposure and color settings on external USB webcams
+- [🟡 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
+- [🟡 HandBrake](https://handbrake.fr) | Converting and compressing video files
+- [🟢 IINA+ ⭐️](https://github.com/iina-plus) | IINA media player with additional features and bug fixes
+- [🟢 Infuse](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
+- [🟢 VLC](https://videolan.org) | Free, open-source, cross-platform multimedia player
+- [🟢 Utai](https://github.com/toto-minai/Utai) | Mp3 file tagger
 
 ### Menu Bar Manager
 - [🟢 Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
@@ -112,14 +121,6 @@ Submit a pull request please!
 - [🟢 MuseBar ⭐️](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
 - [🟢 Pock](https://pock.app) | Dock and widgets inside of the Touch Bar
 - [🟡💰 BetterTouchTools](https://folivora.ai) | Advanced Touch Bar widgets, gesture, scripts and more
-
-### Video Utilities
-- [🟢 CameraController](https://github.com/Itaybre/CameraController) | Control exposure and color settings on external USB webcams
-- [🟡 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
-- [🟡 HandBrake](https://handbrake.fr) | Converting and compressing video files
-- [🟢 IINA+ ⭐️](https://github.com/iina-plus) | IINA media player with additional features and bug fixes
-- [🟢 Infuse](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
-- [🟢 VLC](https://videolan.org) | Free, open-source, cross-platform multimedia player
 
 ### Windows Management
 - [🟢 AltTab ⭐️](https://alt-tab-macos.netlify.app) | Windows 11 like CMD-Tab enhancement
