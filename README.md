@@ -102,6 +102,7 @@ Submit a pull request please!
 
 ### System Tools
 - [🟢 AppCleaner ⭐️](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app 
+- [🟢 LinearMouse](https://linearmouse.org) | Disables mouse acceleration and some other mouse settings
 - [🟢 MacMouseFix ⭐️](https://mos.caldis.me) | Scroll reversal with smooth scrolling and macos specific commands
 - [🟢 Mos](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
 - [🟢 NightOwl ⭐️](https://nightowl.kramser.xyz) | Sunrise and sunset based auto dark mode
