@@ -138,6 +138,7 @@ Submit a pull request please!
 - [🟢 Orion](https://browser.kagi.com) | Webkit based and safari inspired browser with chrome extensions, focuses on privacy
 ### Safari Extensions
 - [🟢 1Blocker](https://1blocker.com) | Best free Adblock I know of, built in YT adblock
+- [🟢 Incoggo ⭐️](https://incoggo.com) | Systemwide menu bar app to bypass paywalls in browsers
 - [🟢 Scribens ⭐️](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
 - [🟡 SponsorBlock ⭐️](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, you have to build the extension yourself in xcode
 - [🟢💰 DarkReader ⭐️](https://apps.apple.com/ca/app/dark-reader-for-safari/id1438243180?mt=12) | Automatically makes websites dark, purchase syncs across the Apple ecosystem
