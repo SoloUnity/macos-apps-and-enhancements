@@ -86,6 +86,7 @@ Submit a pull request please!
 - [🟢 Amphetamine ⭐️](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [🟢 Flow ⭐️](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
 - [🟢 Maccy ⭐️](https://maccy.app) | Clipboard manager
+- [🟢 Multi](https://github.com/kofigumbs/multi) | Create a custom, lightweight macOS app from a group of websites
 - [🟢 OwlOCR ⭐️](https://apps.apple.com/ca/app/owlocr-screenshot-to-text/id1499181666?mt=12) | OCR (Screenshot to output) for text, can convert unsearchable pdfs to searchable
 - [🟢 Moxtrix ⭐️](https://motrix.app) | Download manager and speed booster
 - [🟢 Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
