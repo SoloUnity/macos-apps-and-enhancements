@@ -56,7 +56,9 @@ Submit a pull request please!
 - [🟢💰 Sketch](https://www.sketch.com) | An all-in-one platform for digital design, with collaborative design tools, prototyping and developer handoff
 
 ### Display Enhancements
+- [🟢💰 Hologram](https://apps.apple.com/us/app/hologram-desktop/id1529001798?mt=12) | Hologram transforms your desktop with amazing wallpapers and widgets for Mac!
 - [🟢 MonitorControl](https://github.com/MonitorControl/MonitorControl#readme) | Control display's brightness & volume as if it was a native Apple Display
+- [🟢 Übersicht](http://tracesof.net/uebersicht/) | Desktop modifications, like rainmeter but on macos
 - [🟢💰 iWallpaper](https://apps.apple.com/ca/app/iwallpaper-live-wallpaper/id1552826194?mt=12) | Similar to Wallpaper Engine, dynamic wallpapers
 - [🟢💰 Live Wallpaper](https://apps.apple.com/ca/app/live-wallpaper-themes-4k/id1456235760?mt=12) | Similar to Wallpaper Engine, dynamic wallpapers
 - [🟢💰 Lunar ⭐️](https://lunar.fyi) | Intelligent adaptive brightness for your external monitors
