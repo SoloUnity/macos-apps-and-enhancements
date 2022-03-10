@@ -88,6 +88,7 @@ Submit a pull request please!
 - [🟢 Amphetamine ⭐️](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [🟢 Flow ⭐️](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
 - [🟢 Maccy ⭐️](https://maccy.app) | Clipboard manager
+- [🟢 MenubarX](https://menubarx.app) | A browser in your menu bar
 - [🟢 Multi](https://github.com/kofigumbs/multi) | Create a custom, lightweight macOS app from a group of websites
 - [🟢 OwlOCR ⭐️](https://apps.apple.com/ca/app/owlocr-screenshot-to-text/id1499181666?mt=12) | OCR (Screenshot to output) for text, can convert unsearchable pdfs to searchable
 - [🟢 Moxtrix ⭐️](https://motrix.app) | Download manager and speed booster
@@ -105,6 +106,7 @@ Submit a pull request please!
 
 ### System Tools
 - [🟢 AppCleaner ⭐️](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app 
+- [🟢 Dockey](https://dockey.publicspace.co) | Advanced macOS dock options
 - [🟢 LinearMouse](https://linearmouse.org) | Disables mouse acceleration and some other mouse settings
 - [🟢 MacMouseFix](https://mousefix.org/) | A simple way to make your mouse better
 - [🟢 Mos ⭐️](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
