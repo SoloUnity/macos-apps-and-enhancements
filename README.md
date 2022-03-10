@@ -111,6 +111,7 @@ Submit a pull request please!
 - [🟢 NightOwl ⭐️](https://nightowl.kramser.xyz) | Sunrise and sunset based auto dark mode
 - [🟢 Onyx](https://www.titanium-software.fr/en/onyx.html) | General system cleanup 
 - [🟢 Silicon ⭐️](https://github.com/DigiDNA/Silicon) | Simple app to check if an app is native on Apple Silicon / m1
+- [🟢 Shifty](https://shifty.natethompson.io/en/) | Advanced night shift controls
 - [🟢 The Unarchiver ⭐️](https://apps.apple.com/ca/app/the-unarchiver/id425424353?mt=12) | Unarchiver / uncompressor for compressed files of all types
 - [🟢💰 Ejectify](https://ejectify.app) | Automatically eject and mount drives on sleep and wake, useful for external drives
 - [🟢💰 SteerMouse](http://www.plentycom.jp/en/steermouse/index.html) | Modify your logitech house settings without ever touching ghub
