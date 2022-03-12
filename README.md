@@ -141,7 +141,7 @@ Submit a pull request please!
 
 ## Other Stuff
 ### Browsers
-- [🟢 Orion](https://browser.kagi.com) | Webkit based and safari inspired browser with chrome extensions, focuses on privacy
+- [🟢 Orion](https://browser.kagi.com) | [Download here](https://browser.kagi.com/downloads/Orion.dmg) Webkit based and safari inspired browser with chrome extensions, focuses on privacy
 ### Safari Extensions
 - [🟢 1Blocker](https://1blocker.com) | Best free Adblock I know of, built in YT adblock
 - [🟢 Incoggo ⭐️](https://incoggo.com) | Systemwide menu bar app to bypass paywalls in browsers
