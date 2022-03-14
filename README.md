@@ -142,6 +142,7 @@ Submit a pull request please!
 ## Other Stuff
 ### Browsers
 - [🟢 Orion](https://browser.kagi.com) | [Download here](https://browser.kagi.com/downloads/Orion.dmg) Webkit based and safari inspired browser with chrome extensions, focuses on privacy
+
 ### Safari Extensions
 - [🟢 1Blocker](https://1blocker.com) | Best free Adblock I know of, built in YT adblock
 - [🟢 Incoggo ⭐️](https://incoggo.com) | Systemwide menu bar app to bypass paywalls in browsers
@@ -149,6 +150,7 @@ Submit a pull request please!
 - [🟡 SponsorBlock ⭐️](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, you have to build the extension yourself in xcode
 - [🟢💰 DarkReader ⭐️](https://apps.apple.com/ca/app/dark-reader-for-safari/id1438243180?mt=12) | Automatically makes websites dark, purchase syncs across the Apple ecosystem
 - [🟢💰 SponsorBlock](https://apps.apple.com/ca/app/sponsorblock-for-youtube/id1573461917?mt=12) | Skips sponsor spots in YouTube, paid means the app is ready to run from the get go
+- [🟢💰 Vinegar ⭐️](https://apps.apple.com/ca/app/vinegar-tube-cleaner/id1591303229) | Enable 1080p youtube on mobile, turns youtube video player into default apple player
 - [🟢💰 Wipr ⭐️](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period
 > Run in terminal if safari extensions disappear or bug out: `/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f -R /Applications/Safari.app`
 
