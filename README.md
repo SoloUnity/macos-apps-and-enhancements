@@ -106,7 +106,8 @@ Submit a pull request please!
 
 ### System Tools
 - [🟢 AppCleaner ⭐️](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app 
-- [🟢 Dockey](https://dockey.publicspace.co) | Advanced macOS dock options
+- [🟢 Cocoa Battery](https://www.coconut-flavour.com/coconutbattery/) | Macos and iOS battery health information
+- [🟢 Dockey](https://dockey.publicspace.com) | Advanced macOS dock options
 - [🟢 LinearMouse](https://linearmouse.org) | Disables mouse acceleration and some other mouse settings
 - [🟢 MacMouseFix](https://mousefix.org/) | A simple way to make your mouse better
 - [🟢 Mos ⭐️](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
