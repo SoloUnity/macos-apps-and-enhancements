@@ -6,9 +6,12 @@ Apple Silicon native macOS apps, tools and enhancements.
 | Paid                	| 💰           		  | App is paid, or requires in app purchase to be useful|
 | I use this          	| ⭐️            		| It works well enough for me to use               		|
 
+## 🤝 Contributing
+Pull request!
+
 ## 📖 Categories
 - [Audio Utilities](#🎧-Audio-Utilities)
-- [Browsers](#Browsers)
+- [Browsers](#🔎-Browsers)
 - [Display Enhancements](#Display-Enhancements)
 - [Media Utilities](#Media-Utilities)
 - [Menu Bar Enhancements](#Menu-Bar-Enhancements)
@@ -22,9 +25,6 @@ Apple Silicon native macOS apps, tools and enhancements.
 - [Safari Extensions](#Safari-Extensions)
 - [Gaming](#Gaming)
 - [Alfred Powerpack](#Alfred-Powerpack)
-
-## 🤝 Contributing
-Open up an issue and include the link of the app
 
 ## The Stuff
 
