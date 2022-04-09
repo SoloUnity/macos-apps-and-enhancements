@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 # 💻macOS Apps and Enhancements
 Apple Silicon native macOS apps, tools and enhancements. 
 
@@ -25,7 +23,7 @@ Apple Silicon native macOS apps, tools and enhancements.
 - [Gaming](#Gaming)
 - [Alfred Powerpack](#Alfred-Powerpack)
 
-## Contributing
+## 🤝Contributing
 Open up an issue and include the link of the app
 
 ## The Stuff
