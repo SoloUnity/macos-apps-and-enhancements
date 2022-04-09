@@ -139,6 +139,7 @@ Open up an issue and include the link of the app
 - [💰⭐️  Wipr](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period
 
 ### 🎮 Gaming
+- [AppleGamingWiki](https://www.applegamingwiki.com/wiki/Home) | Apple silicon games wiki
 - [Dolphin Ctrl Server](https://github.com/apexskier/dolphin-controller) | Server to use phone as controller in dolphin emulator
 - [Dolphin Emulator](https://dolphin-emu.org) | Wii and gamecube emulator
 - [⭐️ Lunar Client](https://www.lunarclient.com/download/) | Minecraft client that runs natively on apple silicon
