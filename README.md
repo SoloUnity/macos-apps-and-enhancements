@@ -1,4 +1,4 @@
-# 💻macOS Apps and Enhancements
+# 💻 macOS Apps and Enhancements
 Apple Silicon native macOS apps, tools and enhancements. 
 
 | Legend              	| Icon          		| Description                                       	|
