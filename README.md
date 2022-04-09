@@ -9,23 +9,6 @@ Apple Silicon native macOS apps, tools and enhancements.
 ## 🤝 Contributing
 Pull request!
 
-## 📖 Categories
-- [Audio Utilities](#🎧-Audio-Utilities)
-- [Browsers](#🔎-Browsers)
-- [Display Enhancements](#Display-Enhancements)
-- [Media Utilities](#Media-Utilities)
-- [Menu Bar Enhancements](#Menu-Bar-Enhancements)
-- [Peripheral Utilities](#Peripheral-Utilities)
-- [Productivity Apps](#Productivity-Apps)
-- [Security Tools](#Security-Tools)
-- [System Tools](#System-Tools)
-- [Text Editors](#Text-Editors)
-- [Touch Bar Enhancements](#Touch-Bar-Enhancements)
-- [Windows Management](#Windows-Management)
-- [Safari Extensions](#Safari-Extensions)
-- [Gaming](#Gaming)
-- [Alfred Powerpack](#Alfred-Powerpack)
-
 ## The Stuff
 
 ### 🎧 Audio Utilities
