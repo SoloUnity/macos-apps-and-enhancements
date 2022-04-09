@@ -7,7 +7,7 @@ Apple Silicon native macOS apps, tools and enhancements.
 | I use this          	| ⭐️            		| It works well enough for me to use               		|
 
 ## 📖 Categories
-- [Audio Utilities](#Audio-Utilities)
+- [Audio Utilities](#🎧 Audio Utilities)
 - [Browsers](#Browsers)
 - [Display Enhancements](#Display-Enhancements)
 - [Media Utilities](#Media-Utilities)
