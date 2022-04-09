@@ -30,7 +30,7 @@ Open up an issue and include the link of the app
 
 ## The Stuff
 
-### Audio Utilities
+### 🎧Audio Utilities
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) | Individual app volume control
 - [Beardie](https://github.com/Stillness-2/beardie) | Intelligently reroute your macs pause key to a music player + media control commands
 - [BlackHole](https://existential.audio/blackhole/) | Very simple audio driver for routing audio between apps
