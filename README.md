@@ -21,7 +21,7 @@ Pull request!
 - [Productivity Apps](#-Productivity-Apps)
 - [Safari Extensions](#-Safari-Extensions)
 - [Security Tools](#-Security-Tools)
-- [System Tools](#-System-Tools)
+- [System Tools](https://github.com/SoloUnity/macos-apps-and-enhancements/blob/main/README.md#%EF%B8%8F-system-tools)
 - [Text Editors](#-Text-Editors)
 - [Touch Bar Enhancements](#-Touch-Bar-Enhancements)
 - [Windows Management](#-Windows-Management)
