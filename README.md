@@ -10,7 +10,7 @@ Apple Silicon native macOS apps, tools and enhancements.
 Pull request!
 
 ## 📖 Categories
-- [Alfred Powerpack](#-Alfred-Powerpack)
+- [Alfred Powerpack](#-Alfred)
 - [Audio Utilities](#-Audio-Utilities)
 - [Browsers](#-Browsers)
 - [Display Enhancements](#-Display-Enhancements)
