@@ -100,7 +100,7 @@ Pull request!
 ### ⚙️ System Tools
 - [⭐️ AppCleaner](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app 
 - [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) | Macos and iOS battery health information
-- [Dockey](https://dockey.publicspace.com) | Advanced macOS dock options
+- [Dockey](https://dockey.publicspace.co) | Advanced macOS dock options
 - [⭐️ NightOwl](https://nightowl.kramser.xyz) | Sunrise and sunset based auto dark mode
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) | General system cleanup 
 - [⭐️ Silicon](https://github.com/DigiDNA/Silicon) | Simple app to check if an app is native on Apple Silicon / m1
