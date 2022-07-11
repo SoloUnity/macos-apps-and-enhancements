@@ -148,6 +148,7 @@ Pull request!
 - [⭐️ Lunar Client](https://www.lunarclient.com/download/) | Minecraft client that runs natively on apple silicon
 - [⭐️ ManyMC](https://github.com/MinecraftMachina/ManyMC) | Minecraft launcher that I use for modded minecraft that runs natively on apple silicon
 - [⭐️  PlayCover](https://www.playcover.me) | Sideload and run iOS apps like genshin + Keyboard mapping
+- [SwiftCord](https://github.com/SwiftcordApp/Swiftcord) | A macos native implementation of discord
 
 ### 🧐 Alfred
 - [💰⭐️  Alfred Powerpack](https://www.alfredapp.com/powerpack/) | Its everything the free version does + third party extensions, scripts and more functions
