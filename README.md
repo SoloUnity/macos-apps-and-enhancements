@@ -92,7 +92,7 @@ Pull request!
 - [⭐️ Motrix](https://motrix.app) | Download manager and speed booster
 - [⭐️ Tinkertool](https://www.bresink.com/osx/TinkerTool.html) | Terminal commands in a gui, advanced macOS settings
 - [App Fair](https://appfair.app) | GUI interface for all of homebrew casks (apps)
-- [AutoRaise(https://synappser.github.io/apps/autoraise/) | Automatically raise windows to prominence through your mouse
+- [AutoRaise](https://synappser.github.io/apps/autoraise/) | Automatically raise windows to prominence through your mouse
 - [Figr](https://www.figr.app) | Unit conversion tool
 - [Maccy](https://maccy.app) | Clipboard manager
 - [Multi](https://github.com/kofigumbs/multi) | Create a custom, lightweight macOS app from a group of websites
