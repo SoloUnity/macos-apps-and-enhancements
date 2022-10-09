@@ -103,6 +103,7 @@ Pull request!
 
 ### 🧭 Safari Extensions
 - [⭐️ Auto HD + FPS for Youtube](https://apps.apple.com/ca/app/auto-hd-fps-for-youtube/id1546729687) | Automatically sets quality, fps and video mode for Youtube
+- [⭐️ Pippo]( https://goodsnooze.gumroad.com/l/pippo) | Add media controls to picture in picture
 - [⭐️ Scribens](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
 - [⭐️ SponsorBlock](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, you have to build the extension yourself in xcode
 - [💰⭐️ DarkReader](https://apps.apple.com/ca/app/dark-reader-for-safari/id1438243180?mt=12) | Automatically makes websites dark, purchase syncs across the Apple ecosystem
