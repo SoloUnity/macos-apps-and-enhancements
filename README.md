@@ -75,11 +75,11 @@ Pull request!
 - [💰 Bartender 4](https://www.macbartender.com) | Autohides icons based on their changes and the system
 
 ### 🖱 Peripheral Utilities
-- [⭐️ Mos](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
+- [Mos](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
 - [CameraController](https://github.com/Itaybre/CameraController) | Control exposure and color settings on external USB webcams
 - [Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [LinearMouse](https://linearmouse.org) | Disables mouse acceleration and some other mouse settings
-- [MacMouseFix](https://mousefix.org/) | A simple way to make your mouse better
+- [⭐️ MacMouseFix](https://mousefix.org/) | A simple way to make your mouse better
 - [💰⭐️ AirBuddy](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [💰 Better Mouse](https://better-mouse.com) | Aims to replace 3rd party mouse drivers
 - [💰 SteerMouse](http://www.plentycom.jp/en/steermouse/index.html) | Control mouse settings on a hardware level
