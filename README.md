@@ -127,6 +127,7 @@ Pull request!
 - [Dockey](https://dockey.publicspace.co) | Advanced macOS dock options
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) | General system cleanup 
 - [Shifty](https://shifty.natethompson.io/en/) | Advanced night shift controls
+- [Swift Quit](https://swiftquit.com) | Quits apps when clicking the red button
 - [💰 Ejectify](https://ejectify.app) | Automatically eject and mount drives on sleep and wake, useful for external drives
 
 ### 📝 Text Editors
