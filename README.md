@@ -40,7 +40,7 @@ Pull request!
 - [💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
 
 ### 🔎 Browsers
-- [⭐️ Orion](https://browser.kagi.com) | [Download](https://browser.kagi.com/downloads/Orion.dmg) Webkit based and safari inspired browser with chrome and firefox extensions
+- [Orion](https://browser.kagi.com) | [Download](https://browser.kagi.com/downloads/Orion.dmg) Webkit based and safari inspired browser with chrome and firefox extensions
 - [Biscuit](https://eatbiscuit.com) | Work / school browser where websites are saved and treated as apps
 
 ### 🖥 Display Customization
@@ -56,7 +56,7 @@ Pull request!
 - [Dolphin Ctrl Server](https://github.com/apexskier/dolphin-controller) | Server to use phone as controller in dolphin emulator
 - [Dolphin Emulator](https://dolphin-emu.org) | Wii and gamecube emulator
 - [Lunar Client](https://www.lunarclient.com/download/) | Minecraft client that runs natively on apple silicon
-- [ManyMC](https://github.com/MinecraftMachina/ManyMC) | Minecraft launcher that I use for modded minecraft that runs natively on apple silicon
+- [PolyMC](https://polymc.org) | Minecraft launcher for modded minecraft that runs natively on apple silicon
 - [PlayCover](https://github.com/PlayCover/PlayCover) | Sideload and run iOS apps like genshin + Keyboard mapping
 - [SwiftCord](https://github.com/SwiftcordApp/Swiftcord) | A macos native implementation of discord
 
@@ -103,12 +103,12 @@ Pull request!
 
 ### 🧭 Safari Extensions
 - [⭐️ Auto HD + FPS for Youtube](https://apps.apple.com/ca/app/auto-hd-fps-for-youtube/id1546729687) | Automatically sets quality, fps and video mode for Youtube
-- [⭐️ Pippo]( https://goodsnooze.gumroad.com/l/pippo) | Add media controls to picture in picture
-- [⭐️ Scribens](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
+- [Pippo]( https://goodsnooze.gumroad.com/l/pippo) | Add media controls to picture in picture
+- [Scribens](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
 - [⭐️ SponsorBlock](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, you have to build the extension yourself in xcode
 - [💰⭐️ DarkReader](https://apps.apple.com/ca/app/dark-reader-for-safari/id1438243180?mt=12) | Automatically makes websites dark, purchase syncs across the Apple ecosystem
 - [💰 SponsorBlock](https://apps.apple.com/ca/app/sponsorblock-for-youtube/id1573461917?mt=12) | Skips sponsor spots in YouTube, paid means the app is ready to run from the get go
-- [💰⭐️  Vinegar](https://apps.apple.com/ca/app/vinegar-tube-cleaner/id1591303229) | Enable 1080p youtube on mobile, turns youtube video player into default apple player
+- [💰 Vinegar](https://apps.apple.com/ca/app/vinegar-tube-cleaner/id1591303229) | Enable 1080p youtube on mobile, turns youtube video player into default apple player
 - [💰⭐️  Wipr](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period
 
 ### 🔒 Security Tools
@@ -120,7 +120,7 @@ Pull request!
 
 ### ⚙️ System Tools
 - [⭐️ AppCleaner](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app
-- [⭐️ NightOwl](https://nightowl.kramser.xyz) | Sunrise and sunset based auto dark mode
+- [⭐️ MediaMate](https://wouter01.github.io/MediaMate/) | Fresh visuals for Volume, Brightness and Now Playing.
 - [⭐️ Silicon](https://github.com/DigiDNA/Silicon) | Simple app to check if an app is native on Apple Silicon / m1
 - [⭐️ The Unarchiver](https://apps.apple.com/ca/app/the-unarchiver/id425424353?mt=12) | Unarchiver / uncompressor for compressed files of all types
 - [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) | Macos and iOS battery health information
@@ -137,19 +137,19 @@ Pull request!
 - [💰 SublimeText](http://www.sublimetext.com) |  Sophisticated text editor for code, markup and prose
 
 ### 👉 Touch Bar Enhancements
-- [⭐️ MuseBar](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
+- [MuseBar](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
 - [HapticKey](https://github.com/niw/HapticKey) | Haptic physical feedback from the Touch Bar
 - [Pock](https://pock.app) | Dock and widgets inside of the Touch Bar
 - [💰 BetterTouchTools](https://folivora.ai) | Advanced Touch Bar widgets, gesture, scripts and more
 
 ### 🌌 Windows Management
-- [⭐️ Rectangle](https://rectangleapp.com) | Drag windows to the side or use commands to tile them, supports extensions
+- [Rectangle](https://rectangleapp.com) | Drag windows to the side or use commands to tile them, supports extensions
 - [AltTab](https://alt-tab-macos.netlify.app) | Windows 11 like CMD-Tab enhancement
 - [Amethyst](https://ianyh.com/amethyst/) | Automatic tiling window manager for macOS à la xmonad
 - [Tiles](https://freemacsoft.net/tiles/) | Drag windows to the side or use commands to tile them 
 - [Yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning
 - [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
-- [💰 Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
+- [💰⭐️ Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
 
 
 
