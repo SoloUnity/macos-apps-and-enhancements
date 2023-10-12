@@ -100,6 +100,7 @@ Pull request!
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [MindMac](https://mindmac.app/) | Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 
 ### 🧭 Safari Extensions
 - [⭐️ Auto HD + FPS for Youtube](https://apps.apple.com/ca/app/auto-hd-fps-for-youtube/id1546729687) | Automatically sets quality, fps and video mode for Youtube
