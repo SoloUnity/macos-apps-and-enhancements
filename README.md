@@ -100,6 +100,7 @@ Pull request!
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
 
 ### 🧭 Safari Extensions
 - [⭐️ Auto HD + FPS for Youtube](https://apps.apple.com/ca/app/auto-hd-fps-for-youtube/id1546729687) | Automatically sets quality, fps and video mode for Youtube
