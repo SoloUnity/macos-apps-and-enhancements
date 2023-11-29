@@ -40,8 +40,8 @@ Pull request!
 - [💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
 
 ### 🔎 Browsers
-- [Orion](https://browser.kagi.com) | [Download](https://browser.kagi.com/downloads/Orion.dmg) Webkit based and safari inspired browser with chrome and firefox extensions
-- [Biscuit](https://eatbiscuit.com) | Work / school browser where websites are saved and treated as apps
+- [Orion](https://browser.kagi.com) | Webkit based and safari inspired browser with chrome and firefox extensions
+- [Arc](https://arc.net) | A beautifully designed, mac conscious, chromium browser
 
 ### 🖥 Display Customization
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl#readme) | Control display's brightness & volume as if it was a native Apple Display
