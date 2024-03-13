@@ -113,6 +113,7 @@ Pull request!
 - [💰⭐️  Wipr](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Best Adblock on Safari, period
 
 ### 🔒 Security Tools
+- [BLEUnlock](https://github.com/ts1/BLEUnlock) | Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
 - [Cryptomator](https://cryptomator.org) | A client-side encryption app
 - [KnockKnock](https://objective-see.com/products/knockknock.html) | Find persistently installed programs and malware on your computer
 - [Lulu](https://objective-see.com/products/lulu.html) | Open source firewall to block incoming and outgoing connections
