@@ -98,16 +98,14 @@ Pull request!
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
-- [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
 
 ### 🧭 Safari Extensions
 - [⭐️ Adguard for Safari](https://adguard.com/en/adguard-safari/overview.html) | Free and open source, highly customizable and lightning fast ad blocking extension.
 - [⭐️ Auto HD + FPS for Youtube](https://apps.apple.com/ca/app/auto-hd-fps-for-youtube/id1546729687) | Automatically sets quality, fps and video mode for Youtube
 - [Pippo]( https://goodsnooze.gumroad.com/l/pippo) | Add media controls to picture in picture
 - [Scribens](https://apps.apple.com/ca/app/scribens-for-safari/id1541809406?mt=12) | Great free alternative to grammarly
-- [⭐️ SponsorBlock](https://github.com/ajayyy/SponsorBlock/wiki/Safari) | Skips sponsor spots in YouTube, you have to build the extension yourself in xcode
 - [💰⭐️ DarkReader](https://apps.apple.com/ca/app/dark-reader-for-safari/id1438243180?mt=12) | Automatically makes websites dark, purchase syncs across the Apple ecosystem
-- [💰 SponsorBlock](https://apps.apple.com/ca/app/sponsorblock-for-youtube/id1573461917?mt=12) | Skips sponsor spots in YouTube, paid means the app is ready to run from the get go
+- [💰⭐️ SponsorBlock](https://apps.apple.com/ca/app/sponsorblock-for-youtube/id1573461917?mt=12) | Skips sponsor spots in YouTube, paid means the app is ready to run from the get go
 - [💰 Vinegar](https://apps.apple.com/ca/app/vinegar-tube-cleaner/id1591303229) | Enable 1080p youtube on mobile, turns youtube video player into default apple player
 - [💰 Wipr](https://apps.apple.com/ca/app/wipr/id1320666476?mt=12) | Wipr blocks all ads, trackers, cryptocurrency miners, EU cookie and GDPR notices, and other annoyances
 
@@ -149,8 +147,9 @@ Pull request!
 - [Amethyst](https://ianyh.com/amethyst/) | Automatic tiling window manager for macOS à la xmonad
 - [Tiles](https://freemacsoft.net/tiles/) | Drag windows to the side or use commands to tile them 
 - [Yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning
-- [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
 - [💰⭐️ Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
+- [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
+- [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
 
 
 
