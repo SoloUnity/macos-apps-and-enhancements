@@ -68,10 +68,10 @@ Pull request!
 
 ### 📊 Menu Bar Enhancements
 - [Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
+- [⭐️ Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS
 - [MenubarX](https://menubarx.app) | A browser in your menu bar
 - [PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of music playback from the menu bar
 - [Vanilla](https://matthewpalmer.net/vanilla/) | Basic click and hide menu bar icons
-- [💰⭐️ Bartender 5](https://www.macbartender.com) | Autohides icons based on their changes and the system
 
 ### 🖱 Peripheral Utilities
 - [Mos](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
