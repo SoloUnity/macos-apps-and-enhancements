@@ -82,6 +82,7 @@ Pull request!
 - [💰⭐️ AirBuddy](https://v2.airbuddy.app/?ref=bradleychambers2) | iOS-like airpods device animation, connect with commands
 - [💰 Better Mouse](https://better-mouse.com) | Aims to replace 3rd party mouse drivers
 - [💰 SteerMouse](http://www.plentycom.jp/en/steermouse/index.html) | Control mouse settings on a hardware level
+- [💰 Magic Switch](https://magic-switch.com) | Allows you to switch your Magic Mouse, Magic Keyboard & Magic Trackpad between multiple Macs with different Apple IDs
 
 ### 👨‍💻 Productivity Apps
 - [⭐️ Alfred](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
