@@ -99,6 +99,7 @@ Pull request!
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [MindMac](https://mindmac.app/) | Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 
 ### 🧭 Safari Extensions
 - [⭐️ Adguard for Safari](https://adguard.com/en/adguard-safari/overview.html) | Free and open source, highly customizable and lightning fast ad blocking extension.
