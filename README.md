@@ -125,7 +125,8 @@ Pull request!
 - [⭐️ The Unarchiver](https://apps.apple.com/ca/app/the-unarchiver/id425424353?mt=12) | Unarchiver / uncompressor for compressed files of all types
 - [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) | Macos and iOS battery health information
 - [⭐️ Dockey](https://dockey.publicspace.co) | Advanced macOS dock options
-- [⭐️ Onyx](https://www.titanium-software.fr/en/onyx.html) | General system cleanup 
+- [⭐️ Onyx](https://www.titanium-software.fr/en/onyx.html) | General system cleanup
+- [⭐️ TabLift](https://github.com/turtle-key/TabLift) | A lightweight, open-source macOS utility that automatically restores minimized app windows when switching with ⌘+Tab or ⌘+`.
 - [Shifty](https://shifty.natethompson.io/en/) | Advanced night shift controls
 - [Swift Quit](https://swiftquit.com) | Quits apps when clicking the red button
 - [💰 Ejectify](https://ejectify.app) | Automatically eject and mount drives on sleep and wake, useful for external drives
