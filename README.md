@@ -152,6 +152,7 @@ Pull request!
 - [💰⭐️ Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
 - [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
 - [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
+- [💰 SnapHotkey](https://snaphotkey.com) | Assign keyboard shortcuts directly to apps — press once to focus, press again to hide. Distinguishes Left/Right modifier keys for double the shortcut slots
 
 
 
