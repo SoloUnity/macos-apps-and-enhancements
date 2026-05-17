@@ -37,6 +37,7 @@ Pull request!
 - [💰 Loopback](https://rogueamoeba.com/loopback/) | Audio driver and user interface for highly flexible audio routing
 - [💰 Piezo](https://rogueamoeba.com/piezo/) | Super simple way to record audio from apps
 - [💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
+- [💰 Spokio](https://spokio.pro/) | Offline text-to-speech with local voice cloning and batch export
 
 ### 🔎 Browsers
 - [⭐️ Arc](https://arc.net) | A beautifully designed, mac conscious, chromium browser
