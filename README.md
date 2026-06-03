@@ -126,6 +126,7 @@ Pull request!
 - [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) | Macos and iOS battery health information
 - [⭐️ Dockey](https://dockey.publicspace.co) | Advanced macOS dock options
 - [⭐️ Onyx](https://www.titanium-software.fr/en/onyx.html) | General system cleanup
+- [Dusty](https://github.com/yagcioglutoprak/dusty) | Open-source menu bar disk cleaner that only deletes from a fixed allowlist and shows every path before removing it
 - [⭐️ TabLift](https://github.com/turtle-key/TabLift) | A lightweight, open-source macOS utility that automatically restores minimized app windows when switching with ⌘+Tab or ⌘+`.
 - [Shifty](https://shifty.natethompson.io/en/) | Advanced night shift controls
 - [Swift Quit](https://swiftquit.com) | Quits apps when clicking the red button
