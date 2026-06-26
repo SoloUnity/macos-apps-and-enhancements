@@ -150,6 +150,7 @@ Pull request!
 - [Tiles](https://freemacsoft.net/tiles/) | Drag windows to the side or use commands to tile them 
 - [Yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning
 - [💰⭐️ Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
+- [💰 SnapHotkey](https://snaphotkey.com) | Assign keyboard shortcuts directly to apps — press once to focus, press again to hide. Distinguishes Left/Right modifier keys for double the shortcut slots
 - [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
 - [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
 
