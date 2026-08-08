@@ -88,7 +88,7 @@ Pull request!
 - [💰 Magic Switch](https://magic-switch.com) | Allows you to switch your Magic Mouse, Magic Keyboard & Magic Trackpad between multiple Macs with different Apple IDs
 
 ### 👨‍💻 Productivity Apps
-- [Agent Island](https://github.com/tristan666666/agent-island) | Open-source menu bar status companion for Claude Code and Codex
+- [Agent Island](https://github.com/tristan666666/agent-island) | Native companion for Claude, Codex, Gemini, Grok, and Cursor with local session status, alerts, and provider usage views
 - [⭐️ Alfred](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
 - [Amphetamine](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [Flow](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
@@ -159,5 +159,4 @@ Pull request!
 - [💰 SnapHotkey](https://snaphotkey.com) | Assign keyboard shortcuts directly to apps — press once to focus, press again to hide. Distinguishes Left/Right modifier keys for double the shortcut slots
 - [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
 - [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
-
 
