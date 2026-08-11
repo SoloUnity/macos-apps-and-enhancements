@@ -31,6 +31,7 @@ Pull request!
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) | Individual app volume control
 - [Beardie](https://github.com/Stillness-2/beardie) | Intelligently reroute your macs pause key to a music player + media control commands
 - [BlackHole](https://existential.audio/blackhole/) | Very simple audio driver for routing audio between apps
+- [Echo99](https://www.echo99.app/) | Private call recorder with separate microphone and system audio tracks, on-device transcription and speaker labels
 - [Ocenaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
 - [💰 AudioHijack](https://rogueamoeba.com/audiohijack/) | Highly configurable audio recording from apps
 - [💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
