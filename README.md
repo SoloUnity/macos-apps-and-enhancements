@@ -68,6 +68,7 @@ Pull request!
 - [HandBrake](https://handbrake.fr) | Converting and compressing video files
 - [Infuse](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
 - [Utai](https://github.com/toto-minai/Utai) | Mp3 file tagger
+- [ItsPaint](https://github.com/joshlin2201/itspaint) | Native open-source paint and image editor, blank canvas at any size, cropping and screenshot markup
 - [💰 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
 
 ### 📊 Menu Bar Enhancements
