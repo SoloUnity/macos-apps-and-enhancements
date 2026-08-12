@@ -93,6 +93,7 @@ Pull request!
 - [Amphetamine](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [Flow](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
 - [⭐️ OwlOCR](https://apps.apple.com/ca/app/owlocr-screenshot-to-text/id1499181666?mt=12) | OCR (Screenshot to output) for text, can convert unsearchable pdfs to searchable
+- [💰 CopySight](https://apps.apple.com/app/id6797554906) | Copy text from any screen region with private, on-device OCR
 - [⭐️ Motrix](https://motrix.app) | Download manager and speed booster
 - [⭐️ Tinkertool](https://www.bresink.com/osx/TinkerTool.html) | Terminal commands in a gui, advanced macOS settings
 - [App Fair](https://appfair.app) | GUI interface for all of homebrew casks (apps)
@@ -159,5 +160,4 @@ Pull request!
 - [💰 SnapHotkey](https://snaphotkey.com) | Assign keyboard shortcuts directly to apps — press once to focus, press again to hide. Distinguishes Left/Right modifier keys for double the shortcut slots
 - [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
 - [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
-
 
