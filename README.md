@@ -43,6 +43,7 @@ Pull request!
 - [Orion](https://browser.kagi.com) | Webkit based and safari inspired browser with chrome and firefox extensions
 
 ### 🖥 Display Customization
+- [Abendrot](https://abendrot.app) | Screen warmer that cuts nighttime blue light on every display
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl#readme) | Control display's brightness & volume as if it was a native Apple Display
 - [ScreenSavers](https://github.com/agarrharr/awesome-macos-screensavers) | Curated list of macOS screensavers
 - [Übersicht](http://tracesof.net/uebersicht/) | Desktop modifications, like rainmeter but on macOS
