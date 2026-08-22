@@ -65,6 +65,7 @@ Pull request!
 
 ### 🎥 Media Utilities
 - [IINA+](https://github.com/iina-plus) | IINA media player with additional features and bug fixes
+- [TetherShot](https://tethershot.apoorvdarshan.com) | Native macOS menu bar utility for capturing the actual iPhone display over USB or Wi-Fi and saving pixel-perfect PNGs locally.
 - [HandBrake](https://handbrake.fr) | Converting and compressing video files
 - [Infuse](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
 - [Utai](https://github.com/toto-minai/Utai) | Mp3 file tagger
@@ -159,5 +160,4 @@ Pull request!
 - [💰 SnapHotkey](https://snaphotkey.com) | Assign keyboard shortcuts directly to apps — press once to focus, press again to hide. Distinguishes Left/Right modifier keys for double the shortcut slots
 - [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
 - [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
-
 
