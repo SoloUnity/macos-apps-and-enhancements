@@ -1,4 +1,6 @@
 # 💻 macOS Apps and Enhancements
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks, and AI chat over plain Markdown files. Connects to Ollama for free private AI.
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Open-source macOS menu bar AI agent: shake cursor to summon an overlay that sees your screen and can click, type, and act.
 Apple Silicon native macOS apps, tools and enhancements. 
 
 | Legend              	| Icon          		| Description                                       	|
