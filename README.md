@@ -101,6 +101,7 @@ Pull request!
 - [Maccy](https://maccy.app) | Clipboard manager
 - [Pesty](https://github.com/momenbasel/pesty) | Native open-source clipboard manager, color-coded clipboard strip with pinboards, instant search and keyboard pasting
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
+- [💰 Screenpipe](https://screenpipe.com) | Local computer history for searching past screen and audio with AI assistants
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
