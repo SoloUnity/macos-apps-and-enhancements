@@ -103,6 +103,7 @@ Pull request!
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
+- [💰 Tidy](https://tidymacapp.com) | Menu bar app that renames files by reading their contents with on-device OCR, and sorts Downloads by rules
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 
 ### 🧭 Safari Extensions
