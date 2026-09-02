@@ -71,6 +71,7 @@ Pull request!
 - [💰 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
 
 ### 📊 Menu Bar Enhancements
+- [AgentIsland](https://agentislandapp.github.io) | Answer AI coding agents' permission prompts (Claude Code, Gemini CLI, OpenCode) from the notch without switching windows
 - [Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
 - [⭐️ Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS
 - [MenubarX](https://menubarx.app) | A browser in your menu bar
