@@ -91,6 +91,7 @@ Pull request!
 ### 👨‍💻 Productivity Apps
 - [⭐️ Alfred](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
 - [Amphetamine](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
+- [CareClinic](https://careclinic.io/careclinic-for-mac/) | Track symptoms, medications, mood, sleep, and daily health patterns
 - [Flow](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
 - [⭐️ OwlOCR](https://apps.apple.com/ca/app/owlocr-screenshot-to-text/id1499181666?mt=12) | OCR (Screenshot to output) for text, can convert unsearchable pdfs to searchable
 - [⭐️ Motrix](https://motrix.app) | Download manager and speed booster
