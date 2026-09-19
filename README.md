@@ -43,6 +43,7 @@ Pull request!
 - [Orion](https://browser.kagi.com) | Webkit based and safari inspired browser with chrome and firefox extensions
 
 ### 🖥 Display Customization
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell) | Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl#readme) | Control display's brightness & volume as if it was a native Apple Display
 - [ScreenSavers](https://github.com/agarrharr/awesome-macos-screensavers) | Curated list of macOS screensavers
 - [Übersicht](http://tracesof.net/uebersicht/) | Desktop modifications, like rainmeter but on macOS
