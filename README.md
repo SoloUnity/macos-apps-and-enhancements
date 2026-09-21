@@ -74,6 +74,7 @@ Pull request!
 - [Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
 - [⭐️ Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS
 - [MenubarX](https://menubarx.app) | A browser in your menu bar
+- [NotchDock](https://notchdock.app) | Native macOS Dynamic Island productivity HUD, calendar, and Apple Notes scratchpad
 - [PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of music playback from the menu bar
 - [Vanilla](https://matthewpalmer.net/vanilla/) | Basic click and hide menu bar icons
 
