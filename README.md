@@ -53,6 +53,7 @@ Pull request!
 
 ### 📁 Finder
 - [Burrete](https://github.com/SergeiNikolenko/Burrete) | Molecular structure, trajectory, and chemistry-table previews in Finder Quick Look.
+- [💰 SADFinder](https://sadfinder.com/) | Native file manager with tabs, editable paths, folder filtering, and keyboard-first navigation.
 - [⭐️ SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) | Quick Look extension for highlight source code files.
 
 ### 🎮 Gaming
