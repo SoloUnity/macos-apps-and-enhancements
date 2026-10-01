@@ -103,6 +103,7 @@ Pull request!
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
+- [💰 SimpleDiagrams](https://simplediagrams.com/desktop/) | Native Mac app for quick, informal diagrams with hand-drawn shapes, works offline, one-time purchase with a free 7-day trial
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 
 ### 🧭 Safari Extensions
