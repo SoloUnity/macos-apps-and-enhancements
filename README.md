@@ -73,6 +73,7 @@ Pull request!
 ### 📊 Menu Bar Enhancements
 - [Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
 - [⭐️ Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS
+- [💰 MacDock](https://currentbits.net/macdock) | Second dock in the notch or on a screen edge with system stats, screenshots, window snapping and clipboard history
 - [MenubarX](https://menubarx.app) | A browser in your menu bar
 - [PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of music playback from the menu bar
 - [Vanilla](https://matthewpalmer.net/vanilla/) | Basic click and hide menu bar icons
