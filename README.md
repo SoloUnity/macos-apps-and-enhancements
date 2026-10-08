@@ -136,6 +136,7 @@ Pull request!
 - [Shifty](https://shifty.natethompson.io/en/) | Advanced night shift controls
 - [Swift Quit](https://swiftquit.com) | Quits apps when clicking the red button
 - [💰 Ejectify](https://ejectify.app) | Automatically eject and mount drives on sleep and wake, useful for external drives
+- [AppDuo](https://tamia6.github.io/AppDuo/en/) | Free, open-source native app cloner with separate data directories and custom names and icons
 
 ### 📝 Text Editors
 - [CotEditor](https://coteditor.com) |  Lightweight plain-text editor for macOS
