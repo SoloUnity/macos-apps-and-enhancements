@@ -142,6 +142,7 @@ Pull request!
 - [bbedit](https://www.barebones.com/products/bbedit/) |  OG text editor
 - [Textmate](https://macromates.com) |  Editor that brings Apple's approach to operating systems into the world of text editors
 - [💰 SublimeText](http://www.sublimetext.com) |  Sophisticated text editor for code, markup and prose
+- [💰 MacMD Viewer](https://macmdviewer.com) | Read-only Markdown viewer with Quick Look previews, Mermaid diagrams and PDF export
 
 ### 👉 Touch Bar Enhancements
 - [MuseBar](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
