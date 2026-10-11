@@ -87,6 +87,7 @@ Pull request!
 - [💰 Better Mouse](https://better-mouse.com) | Aims to replace 3rd party mouse drivers
 - [💰 SteerMouse](http://www.plentycom.jp/en/steermouse/index.html) | Control mouse settings on a hardware level
 - [💰 Magic Switch](https://magic-switch.com) | Allows you to switch your Magic Mouse, Magic Keyboard & Magic Trackpad between multiple Macs with different Apple IDs
+- [Tap2Click](https://tap2click.me) | Tap-to-click and two-finger right-click for the Apple Magic Mouse
 
 ### 👨‍💻 Productivity Apps
 - [⭐️ Alfred](https://www.alfredapp.com) | Replaces spotlight, instant app/files/folder/web search, see [Alfred Powerpack](#Alfred-Powerpack)
