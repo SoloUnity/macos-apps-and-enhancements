@@ -104,6 +104,7 @@ Pull request!
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [Glim](https://github.com/NeoPanic/Glim) | Free, open-source file viewer for Markdown, PDFs, images, JSON, CSV and source code in one macOS workspace
 
 ### 🧭 Safari Extensions
 - [⭐️ Adguard for Safari](https://adguard.com/en/adguard-safari/overview.html) | Free and open source, highly customizable and lightning fast ad blocking extension.
