@@ -98,6 +98,7 @@ Pull request!
 - [App Fair](https://appfair.app) | GUI interface for all of homebrew casks (apps)
 - [AutoFocus](https://github.com/synappser/AutoFocus) | Automatically raise windows to prominence through your mouse
 - [Figr](https://www.figr.app) | Unit conversion tool
+- [Koru](https://www.koru.do) | Open-source, local-first workspace for notes, docs and files, built natively in Rust for Apple silicon
 - [Maccy](https://maccy.app) | Clipboard manager
 - [Pesty](https://github.com/momenbasel/pesty) | Native open-source clipboard manager, color-coded clipboard strip with pinboards, instant search and keyboard pasting
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
