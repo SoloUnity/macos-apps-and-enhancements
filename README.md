@@ -68,6 +68,7 @@ Pull request!
 - [HandBrake](https://handbrake.fr) | Converting and compressing video files
 - [Infuse](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
 - [Utai](https://github.com/toto-minai/Utai) | Mp3 file tagger
+- [Swivel](https://github.com/jonathanlotan/Swivel) | While dragging files, tap a modifier key for a radial wheel to convert images, video, audio, documents and archives, or resize, compress and OCR them
 - [💰 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
 
 ### 📊 Menu Bar Enhancements
