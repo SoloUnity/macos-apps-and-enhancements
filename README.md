@@ -125,6 +125,7 @@ Pull request!
 
 ### ⚙️ System Tools
 - [⭐️ AppCleaner](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app
+- [💰 MacClean](https://thulem.com/) | Clean WeChat, Xcode, and Mac storage clutter — freemium ¥98 by Thulem
 - [⭐️ MediaMate](https://wouter01.github.io/MediaMate/) | Fresh visuals for Volume, Brightness and Now Playing.
 - [⭐️ Silicon](https://github.com/DigiDNA/Silicon) | Simple app to check if an app is native on Apple Silicon / m1
 - [⭐️ The Unarchiver](https://apps.apple.com/ca/app/the-unarchiver/id425424353?mt=12) | Unarchiver / uncompressor for compressed files of all types
