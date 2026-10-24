@@ -34,6 +34,7 @@ Pull request!
 - [Ocenaudio](https://www.ocenaudio.com) | Easy, fast and powerful audio editor
 - [💰 AudioHijack](https://rogueamoeba.com/audiohijack/) | Highly configurable audio recording from apps
 - [💰 AudioWrangler](https://apps.apple.com/ca/app/audiowrangler/id1565701763?mt=12) | Auto priority based input / output switching on device connection
+- [💰 Klakk](https://tryklakk.com/en/keyboard-sounds/) | Mechanical keyboard sounds while typing, with 14 packs to preview and a three-day app trial from first launch (macOS 14+).
 - [💰 Loopback](https://rogueamoeba.com/loopback/) | Audio driver and user interface for highly flexible audio routing
 - [💰 Piezo](https://rogueamoeba.com/piezo/) | Super simple way to record audio from apps
 - [💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
