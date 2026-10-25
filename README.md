@@ -37,6 +37,7 @@ Pull request!
 - [💰 Loopback](https://rogueamoeba.com/loopback/) | Audio driver and user interface for highly flexible audio routing
 - [💰 Piezo](https://rogueamoeba.com/piezo/) | Super simple way to record audio from apps
 - [💰 SoundSource](https://rogueamoeba.com/soundsource/) | Individual app volume control
+- [💰 Teclo](https://teclo.app/?utm_source=solounity-macos-apps-and-enhancements&utm_medium=directory&utm_content=listing) | Mechanical keyboard sounds for every key you press, in any app, from the menu bar
 
 ### 🔎 Browsers
 - [⭐️ Arc](https://arc.net) | A beautifully designed, mac conscious, chromium browser
