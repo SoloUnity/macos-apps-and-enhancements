@@ -124,6 +124,7 @@ Pull request!
 - [Pareto Security](https://github.com/ParetoSecurity/pareto-mac) | Automatically audit your Mac for basic security hygiene
 
 ### ⚙️ System Tools
+- [💰 iPhone Data Manager](https://iphonedatamanager.com) | Native Apple Silicon iPhone backup, external SSD manager, Data Time Machine & SHA-256 WhatsApp PDF exporter
 - [⭐️ AppCleaner](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app
 - [⭐️ MediaMate](https://wouter01.github.io/MediaMate/) | Fresh visuals for Volume, Brightness and Now Playing.
 - [⭐️ Silicon](https://github.com/DigiDNA/Silicon) | Simple app to check if an app is native on Apple Silicon / m1
