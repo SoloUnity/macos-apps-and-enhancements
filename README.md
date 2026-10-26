@@ -155,6 +155,7 @@ Pull request!
 - [Amethyst](https://ianyh.com/amethyst/) | Automatic tiling window manager for macOS à la xmonad
 - [Tiles](https://freemacsoft.net/tiles/) | Drag windows to the side or use commands to tile them 
 - [Yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning
+- [💰 Command Reopen](https://commandreopen.com) | Makes Cmd+Tab restore minimized and closed windows with zero permissions (MIT, MAS)
 - [💰⭐️ Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12) | Essentially a paid version of Tiles
 - [💰 SnapHotkey](https://snaphotkey.com) | Assign keyboard shortcuts directly to apps — press once to focus, press again to hide. Distinguishes Left/Right modifier keys for double the shortcut slots
 - [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
