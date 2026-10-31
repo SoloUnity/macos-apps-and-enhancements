@@ -124,6 +124,7 @@ Pull request!
 - [Pareto Security](https://github.com/ParetoSecurity/pareto-mac) | Automatically audit your Mac for basic security hygiene
 
 ### ⚙️ System Tools
+- [Kilobat](https://kilobat.app/) | Menu bar network monitoring and diagnostics; free basic features, optional paid Pro
 - [⭐️ AppCleaner](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app
 - [⭐️ MediaMate](https://wouter01.github.io/MediaMate/) | Fresh visuals for Volume, Brightness and Now Playing.
 - [⭐️ Silicon](https://github.com/DigiDNA/Silicon) | Simple app to check if an app is native on Apple Silicon / m1
