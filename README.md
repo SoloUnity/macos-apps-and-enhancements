@@ -69,6 +69,9 @@ Pull request!
 - [Infuse](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
 - [Utai](https://github.com/toto-minai/Utai) | Mp3 file tagger
 - [💰 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
+- [ShotMap](https://github.com/ixiehao/ShotMap) | Native video storyboard generator with automatic and manual frame selection and PNG/JPG export.
+- [MP4Flow](https://github.com/ixiehao/MP4Flow) | Native FFmpeg front end for batch MP4 conversion, trimming, cropping, rotating, and merging. Requires separately installed FFmpeg and ffprobe.
+- [LumaView](https://github.com/ixiehao/LumaView) | Native image viewer for folder browsing, EXIF inspection, and multipage PDFs.
 
 ### 📊 Menu Bar Enhancements
 - [Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
