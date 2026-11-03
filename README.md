@@ -98,12 +98,14 @@ Pull request!
 - [App Fair](https://appfair.app) | GUI interface for all of homebrew casks (apps)
 - [AutoFocus](https://github.com/synappser/AutoFocus) | Automatically raise windows to prominence through your mouse
 - [Figr](https://www.figr.app) | Unit conversion tool
+- [LocArk](https://locark.com/) | Local-first Markdown notes, password records and Inbox; free core features, optional Pro for kanban and mind-map creation
 - [Maccy](https://maccy.app) | Clipboard manager
 - [Pesty](https://github.com/momenbasel/pesty) | Native open-source clipboard manager, color-coded clipboard strip with pinboards, instant search and keyboard pasting
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [💰 TypeNod](https://typenod.com/) | Mac input method with on-device translation previews while typing, after downloading Apple's language resources; confirm to insert (macOS 26+)
 
 ### 🧭 Safari Extensions
 - [⭐️ Adguard for Safari](https://adguard.com/en/adguard-safari/overview.html) | Free and open source, highly customizable and lightning fast ad blocking extension.
