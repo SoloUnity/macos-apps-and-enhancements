@@ -71,10 +71,12 @@ Pull request!
 - [💰 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
 
 ### 📊 Menu Bar Enhancements
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) | Unified daily productivity HUD and menu bar companion for macOS
 - [Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
 - [⭐️ Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS
 - [MenubarX](https://menubarx.app) | A browser in your menu bar
 - [PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of music playback from the menu bar
+- [Tape](https://github.com/Yvsleyen00941/Tape) | Stock ticker in the empty corner beside the Dock
 - [Vanilla](https://matthewpalmer.net/vanilla/) | Basic click and hide menu bar icons
 
 ### 🖱 Peripheral Utilities
@@ -93,6 +95,7 @@ Pull request!
 - [Amphetamine](https://apps.apple.com/ca/app/amphetamine/id937984704?mt=12) | Utility to prevent your Mac from sleeping based on timers, conditions, etc.
 - [Flow](https://apps.apple.com/ca/app/flow-focus-pomodoro-timer/id1423210932) | Pomodoro studying timer
 - [⭐️ OwlOCR](https://apps.apple.com/ca/app/owlocr-screenshot-to-text/id1499181666?mt=12) | OCR (Screenshot to output) for text, can convert unsearchable pdfs to searchable
+- [Rime](https://github.com/Yvsleyen00941/Rime) | Distraction-free reading engine with frosted-ice focus backdrop for PDF, EPUB, and Markdown
 - [⭐️ Motrix](https://motrix.app) | Download manager and speed booster
 - [⭐️ Tinkertool](https://www.bresink.com/osx/TinkerTool.html) | Terminal commands in a gui, advanced macOS settings
 - [App Fair](https://appfair.app) | GUI interface for all of homebrew casks (apps)
