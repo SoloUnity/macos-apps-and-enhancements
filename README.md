@@ -99,6 +99,7 @@ Pull request!
 - [AutoFocus](https://github.com/synappser/AutoFocus) | Automatically raise windows to prominence through your mouse
 - [Figr](https://www.figr.app) | Unit conversion tool
 - [Maccy](https://maccy.app) | Clipboard manager
+- [Paperwing](https://paperwingapp.com) | Free, open-source PDF editor: edit text in place, sign, fill forms, OCR, redact, merge and convert, fully offline
 - [Pesty](https://github.com/momenbasel/pesty) | Native open-source clipboard manager, color-coded clipboard strip with pinboards, instant search and keyboard pasting
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
