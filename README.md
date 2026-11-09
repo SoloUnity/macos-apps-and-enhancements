@@ -161,3 +161,6 @@ Pull request!
 - [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
 
 
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Now Playing widget beside the Dock with dominant color matching.
