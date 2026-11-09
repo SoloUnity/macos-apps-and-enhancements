@@ -69,6 +69,7 @@ Pull request!
 - [Infuse](https://firecore.com/infuse) | Video player supporting HDR and spatial audio
 - [Utai](https://github.com/toto-minai/Utai) | Mp3 file tagger
 - [💰 ff·Works 3](https://www.ffworks.net) | A Comprehensive Media Tool for macOS
+- [💰 XShots](https://selfark.com/xshots/) | Design, localize, preview and batch-export app-store screenshot sets on a continuous Mac canvas (macOS 14+; three-day trial, then paid)
 
 ### 📊 Menu Bar Enhancements
 - [Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
