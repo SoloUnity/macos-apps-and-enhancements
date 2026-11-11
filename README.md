@@ -135,6 +135,7 @@ Pull request!
 - [⭐️ TabLift](https://github.com/turtle-key/TabLift) | A lightweight, open-source macOS utility that automatically restores minimized app windows when switching with ⌘+Tab or ⌘+`.
 - [Shifty](https://shifty.natethompson.io/en/) | Advanced night shift controls
 - [Swift Quit](https://swiftquit.com) | Quits apps when clicking the red button
+- [💰 Mac Ninja](https://macninjaa.com/) | Sleeps idle browser tabs and lowers the priority of busy background apps
 - [💰 Ejectify](https://ejectify.app) | Automatically eject and mount drives on sleep and wake, useful for external drives
 
 ### 📝 Text Editors
