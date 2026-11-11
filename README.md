@@ -142,6 +142,7 @@ Pull request!
 - [bbedit](https://www.barebones.com/products/bbedit/) |  OG text editor
 - [Textmate](https://macromates.com) |  Editor that brings Apple's approach to operating systems into the world of text editors
 - [💰 SublimeText](http://www.sublimetext.com) |  Sophisticated text editor for code, markup and prose
+- [MiaoYan](https://miaoyan.app/) |  Lightweight Markdown notebook that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and slides
 
 ### 👉 Touch Bar Enhancements
 - [MuseBar](https://github.com/planecore/MuseBar) | Spotify / Apple Music album art and swipe controls in the control strip
