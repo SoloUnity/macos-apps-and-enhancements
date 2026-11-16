@@ -101,6 +101,9 @@ Pull request!
 - [Maccy](https://maccy.app) | Clipboard manager
 - [Pesty](https://github.com/momenbasel/pesty) | Native open-source clipboard manager, color-coded clipboard strip with pinboards, instant search and keyboard pasting
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
+- [Rockxy](https://rockxy.io/) | Native macOS alternative to Charles Proxy for intercepting, inspecting and modifying HTTP/HTTPS and WebSocket traffic
+- [RockxyBase](https://rockxy.io/rockxybase) | Native BI app for Mac and Power BI alternative for querying databases and building charts and reports
+- [RockxyBit](https://rockxy.io/rockxybit) | Native Postman alternative for Mac to send API requests, inspect responses and manage collections and environments
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
@@ -122,6 +125,7 @@ Pull request!
 - [Lulu](https://objective-see.com/products/lulu.html) | Open source firewall to block incoming and outgoing connections
 - [OverSight](https://objective-see.com/products/oversight.html) | OverSight monitors a mac's mic and webcam, alerting the user when the internal mic or camera is activated
 - [Pareto Security](https://github.com/ParetoSecurity/pareto-mac) | Automatically audit your Mac for basic security hygiene
+- [Tracexy](https://rockxy.io/tracexy) | Native macOS Wireshark alternative for capturing and analyzing network packets
 
 ### ⚙️ System Tools
 - [⭐️ AppCleaner](https://freemacsoft.net/appcleaner/) | Finds and removes random miscellaneous files when you delete an app
