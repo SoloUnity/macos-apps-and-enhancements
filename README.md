@@ -79,6 +79,7 @@ Pull request!
 
 ### 🖱 Peripheral Utilities
 - [Mos](https://mos.caldis.me) | Reverses the mouse scroll direction without reversing the trackpad, plus smooth scrolling 
+- [SmoothWheel](https://github.com/AntonMazur/SmoothWheel) | Smooth mouse-wheel scrolling with adjustable speed, smoothing, and per-app exclusions
 - [CameraController](https://github.com/Itaybre/CameraController) | Control exposure and color settings on external USB webcams
 - [Ears](https://clickontyler.com/ears/download/) | Audio input/output switcher based on commands
 - [LinearMouse](https://linearmouse.org) | Disables mouse acceleration and some other mouse settings
