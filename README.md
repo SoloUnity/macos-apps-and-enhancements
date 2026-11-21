@@ -74,6 +74,7 @@ Pull request!
 - [Hidden Bar](https://github.com/dwarvesf/hidden) | Basic click and hide menu bar icons
 - [⭐️ Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS
 - [MenubarX](https://menubarx.app) | A browser in your menu bar
+- [💰 NotiFerry](https://notiferry.com/) | Forward new macOS Notification Center alerts to an iPhone via ntfy
 - [PlayStatus](https://github.com/nbolar/PlayStatus) | macOS app that allows the control of music playback from the menu bar
 - [Vanilla](https://matthewpalmer.net/vanilla/) | Basic click and hide menu bar icons
 
