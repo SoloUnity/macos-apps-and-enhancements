@@ -103,6 +103,7 @@ Pull request!
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
+- [💰 Shake It On](https://shakeiton.app) | Keeps your Mac awake with natural mouse movement, with conditions, schedules and automatic pauses for calls, Focus and battery
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 
 ### 🧭 Safari Extensions
