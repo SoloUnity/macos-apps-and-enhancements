@@ -53,6 +53,7 @@ Pull request!
 
 ### 📁 Finder
 - [Burrete](https://github.com/SergeiNikolenko/Burrete) | Molecular structure, trajectory, and chemistry-table previews in Finder Quick Look.
+- [QuickRight](https://apps.apple.com/us/app/quickright/id6763963598?mt=12) | Right-click menu for Finder: create files from templates, copy paths, open a terminal in the current folder, convert images, check SHA-256.
 - [⭐️ SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) | Quick Look extension for highlight source code files.
 
 ### 🎮 Gaming
