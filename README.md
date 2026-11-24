@@ -101,8 +101,10 @@ Pull request!
 - [Maccy](https://maccy.app) | Clipboard manager
 - [Pesty](https://github.com/momenbasel/pesty) | Native open-source clipboard manager, color-coded clipboard strip with pinboards, instant search and keyboard pasting
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
+- [💰 Cadence](https://www.yuzool.com/apps/cadence/) | Weekly planner that lays the week out day by day, with a Friday review and iCloud sync to iPhone
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
+- [💰 Suzume Mail](https://www.yuzool.com/apps/suzume/) | Native IMAP email client with chat-style threads that keeps your mail on your Mac
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 
 ### 🧭 Safari Extensions
