@@ -102,6 +102,7 @@ Pull request!
 - [Pesty](https://github.com/momenbasel/pesty) | Native open-source clipboard manager, color-coded clipboard strip with pinboards, instant search and keyboard pasting
 - [Raycast](https://www.raycast.com) | Replaces spotlight with a great extension store
 - [💰 Forklift](https://binarynights.com) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [💰 Linger](https://withlinger.com/) | Native Apple Silicon Mac reference library with source links, notes, image search and a canvas
 - [💰 Hazeover](https://hazeover.com) | Dim the entire windows except for the app in focus
 - [💰 Transmit](https://panic.com/transmit/) |  File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 
